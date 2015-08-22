@@ -1,5 +1,4 @@
 ##致 Front-End Developers（2015）
-===
 
 摘录至百度百科
 
