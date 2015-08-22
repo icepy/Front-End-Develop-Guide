@@ -36,7 +36,7 @@ Front-End Developers Hunan
 			* [Node.js](#javascript_nodejs)
 			* [Mongodb](#javascript_mongodb)
 			* [Chrome扩展开发](#javascript_chrome)
-	* [Front-End Questions](#fe_doc)
+	* [Front-End Questions](#fed_questions)
 	* [Front-End Developer Blog](#fed_blog)
 	* [通用Developer 社区](#fed_community)
 * [技术分享会议](#fed_jishu_share)
@@ -167,11 +167,11 @@ web前端开发可能包括HTML,CSS,JavaScript,Web API,SVG,WebGL,MathML等，语
 * [the-little-mongodb-book-cn](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md)
 
 
-### <a id="javascript_chrome"></a>Chrome扩展以应开发
+### <a id="javascript_chrome"></a>Chrome扩展开发
 
 * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
 
-## <a id=""></a>Front-End Questions
+## <a id="fed_questions"></a>Front-End Questions
 
 * [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)：面试题集合；
 * [Mars - mobile needs a hero](https://github.com/AlloyTeam/Mars)：腾讯出品的移动端实践；
@@ -328,6 +328,10 @@ vim常用的插件：
 	Bundle "klen/python-mode"
 	Bundle "leafgarland/typescript-vim"
 	Bundle "scrooloose/nerdcommenter"
+
+* [HTML5 Please](http://html5please.com/)：HTML5与CSS3技术评估
+* [Mobile HTML5](http://mobilehtml5.org/)：HTML5兼容性速查表
+* [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
 
 ####2. 源代码管理工具
 
