@@ -1,6 +1,6 @@
 ##Front-End-Develop-Guide 前端开发指南
 
-这份指南汇集了前端开发所使用语言的主流学习资源，并以开发者的视角进行整理编排而成。
+创建此项目灵感从[SwiftGuide](https://github.com/ipader/SwiftGuide)而来，这份指南汇集了前端开发所使用语言的主流学习资源，并以开发者的视角进行整理编排而成。
 
 GitHub：[w3crange/Front-End-Develop-Guide](https://github.com/w3crange/Front-End-Develop-Guide) ｜ 网站：[http://w3crange.github.io](http://w3crange.github.io) ｜ _欢迎开发者一起[维护](https://github.com/w3crange/Front-End-Develop-Guide/pulls)，或[反馈/投稿](https://github.com/w3crange/Front-End-Develop-Guide/issues/new)_
 
@@ -8,11 +8,11 @@ GitHub：[w3crange/Front-End-Develop-Guide](https://github.com/w3crange/Front-En
 
 由[@icepy](http://weibo.com/2455876310/profile?topnav=1&wvr=6)负责整理
 
-欢迎大家加入**一起来学JS（HN）QQ群：347349470**，加入后还请修改备注为，所在地-昵称。
+欢迎大家加入**一起来学JS（HN）QQ群：347349470**，加入后还请修改备注为，所在地-昵称，群内多数来自三湘四水热情的湖南人。
 
 主要讨论：前端范围内的技术，HTML CSS JavaScript使用技巧，浏览器开发工具使用讨论，iOS Android等Mobile App使用的技术，一起来学习，共同进步。
 
-让前端，JS开发在湖南可以成为大家热爱的工作与成熟的产业。
+让web前端，JS开发在湖南可以成为大家热爱的工作与成熟的产业。
 
 Front-End Developers Hunan
 
@@ -351,7 +351,64 @@ vim常用的插件：
 
 ####1. 有趣味的开源项目
 
-* [Web Developer技能树](https://github.com/phodal/skilltree)
+* [Web Developer技能树](https://github.com/phodal/skilltree)：类似《魔兽世界》中的天赋树；
+* [octotree](https://github.com/buunguyen/octotree)：浏览器扩展(Chrome,Firefox,Safari和Opera)显示GitHub树格式的代码；
+* [react-native](https://github.com/facebook/react-native)：用于编写移动App；
+* [ionic](https://github.com/driftyco/ionic)：用于编写Hybrid App；
+* [passport-bnet](https://github.com/Blizzard/passport-bnet)：暴雪提供的Nodejs版SDK
+* [hexo](https://github.com/hexojs/hexo)：编写博客使用的工具
+* [traceur-compiler](https://github.com/google/traceur-compiler)：可以运行未来的JavaScript的JavaScript；
+* [EpicEditor](https://github.com/OscarGodson/EpicEditor)：可以嵌入网页的Markdown编辑器；
+* [gitbook](https://github.com/GitbookIO/gitbook)：用于生成在线书籍的工具；
+* [kityminder](https://github.com/fex-team/kityminder)：作为一款在线的脑图编辑工具，它有着不亚于 native 脑图工具的交互体验；
+
+####2. 开源库
+
+* [three.js](https://github.com/mrdoob/three.js)：three.js是JavaScript编写的WebGL第三方库。提供了非常多的3D显示功能。Three.js 是一款运行在浏览器中的 3D 引擎，你可以用它创建各种三维场景，包括了摄影机、光影、材质等各种对象；
+* [fullPage.js](https://github.com/alvarotrigo/fullPage.js)：fullPage.js 是一个基于 jQuery 的插件，它能够很方便、很轻松的制作出全屏网站；
+* [angular-ui-router](https://github.com/angular-ui/ui-router)：angular-ui-router是AngularJS的路由框架，和默认的$route不同，它将所有路由包装成可划分层级的状态机状态,路由路径在ui-router中不是必须的。由于ui-router的路由状态机是分层级的，所以使用ui-router可以非常方便地创建包含多个嵌入的子模板；
+* [marked](https://github.com/chjj/marked)：markdown解析器；
+* [tsd](https://github.com/DefinitelyTyped/tsd)：在TypeScript中替换第三方库所使用的引用文件；
+* [react](https://github.com/facebook/react)：可以用一种声明性、高效和灵活的JavaScript来构建用户界面的框架；
+* [hammer.js](https://github.com/hammerjs/hammer.js)：处理触摸事件，以及手势的JavaScript库；
+* [resumable.js](https://github.com/23/resumable.js)：这是用于HMLT5 File Api封装可以方便操作文件的一个库；
+* [commander.js](https://github.com/tj/commander.js)：可以帮助快速开发Nodejs命令行工具的一个包；
+* [persistencejs](https://github.com/coresmart/persistencejs)：是一个异步的Javascript库的对象关系映射框架；
+* [artTemplate](https://github.com/aui/artTemplate)： JavaScript模板引擎；
+* [TypeScript](https://github.com/Microsoft/TypeScript)：JavaScript的超集，扩展了类型，类，接口等语法，兼容ES6；
+* [fastclick](https://github.com/ftlabs/fastclick)：FastClick是一个简单的、易于使用的库，消除在移动浏览器上触发click事件与一个物理Tap(敲击)之间的300延迟；
+* [node-browserify](https://github.com/substack/node-browserify)：Browserify是一个node.js模块，主要用于改写现有的CommonJS模块，使得浏览器端也可以使用这些模块；
+* [socket.io](https://github.com/socketio/socket.io)：Socket.io是使用得非常普遍的前端调用Websocket的库；
+* [superagent](https://github.com/visionmedia/superagent)：superagent 是nodejs里一个非常方便的客户端请求代理模块；
+* [cheerio](https://github.com/cheeriojs/cheerio)：它可以从一坨html的片断中构建DOM结构，然后提供像jquery一样的css选择器查询；
+* [express](https://github.com/strongloop/express)：它用于构建Web网站，非常快速；
+* [node-mongodb-native](https://github.com/mongodb/node-mongodb-native)：nodejs用于操作mongodb；
+* [ejs](https://github.com/tj/ejs)：JavaScript模版引擎；
+* [riot](https://github.com/riot/riot)：一个小巧的UI和代码结构的框架；
+* [JavaScript-MD5](https://github.com/blueimp/JavaScript-MD5)：JS版的MD5;
+* [zepto](https://github.com/madrobby/zepto)：在浏览器(Safari、Chrome和Firefox)上开发页面应用或者构建基于html的web-view本地应用，如PhoneGap，使用Zepto是一个不错的选择；
+* [async](https://github.com/caolan/async)：JS实现的一个方便快捷异步编程的库；
+* [echarts](https://github.com/ecomfe/echarts)：基于Canvas，纯Javascript图表库，提供直观，生动，可交互，可个性化定制的数据可视化图表。创新的拖拽重计算、数据视图、值域漫游等特性大大增强了用户体验，赋予了用户对数据进行挖掘、整合的能力；
+* [koa](https://github.com/koajs/koa)：下一代编写Web网站的nodejs框架；
+* [vue](https://github.com/yyx990803/vue)：MVVM框架；
+* [underscore](https://github.com/jashkenas/underscore)：JS函数工具库；
+* [backbone](https://github.com/jashkenas/backbone)：Backbone.js为复杂WEB应用程序提供模型(models)、集合(collections)、视图(views)的结构。其中模型用于绑定键值数据和自定义事件；集合附有可枚举函数的丰富API； 视图可以声明事件处理函数，并通过RESRful JSON接口连接到应用程序。
+* [jquery](https://github.com/jquery/jquery)：jQuery 是一个高效、精简并且功能丰富的JavaScript 工具库；
+* [angular.js](https://github.com/angular/angular.js)：AngularJS是为了克服HTML在构建应用上的不足而设计的，通过为开发者呈现一个更高层次的抽象来简化应用的开发。如同其他的抽象技术一样，这也会损失一部分灵活性。换句话说，并不是所有的应用都适合用AngularJS来做。AngularJS主要考虑的是构建CRUD应用。幸运的是，至少90%的WEB应用都是CRUD应用。但是要了解什么适合用AngularJS构建，就得了解什么不适合用AngularJS构建。
+
+####3. 开放平台
+
+* [wx](https://github.com/baoshan/wx)：wx是极简设计的微信（公共平台）应用参考级框架，而并非微信接口在node.js下的幂等映射；
+* [api-wow-docs](https://github.com/Blizzard/api-wow-docs)：暴雪提供的魔兽世界API文档
+
+####4. 开源web网站系统
+
+* [candy](https://github.com/turingou/candy)：基于多说社交评论的社会化论坛系统，采用 Node.js/Mongodb 构建；
+
+####5. 调试工具
+
+* [node-inspector](https://github.com/node-inspector/node-inspector)：nodejs的调试工具；
+* [node-supervisor](https://github.com/petruisfan/node-supervisor)：nodejs用于无需重启的工具
 
 ## <a id="fed_datastructure"></a> Front-End 需要了解的数据结构与算法
 
