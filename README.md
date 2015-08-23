@@ -4,7 +4,7 @@
 
 GitHub：[w3crange/Front-End-Develop-Guide](https://github.com/w3crange/Front-End-Develop-Guide) ｜ 网站：[http://w3crange.github.io](http://w3crange.github.io) ｜ _欢迎开发者一起[维护](https://github.com/w3crange/Front-End-Develop-Guide/pulls)，或[反馈/投稿](https://github.com/w3crange/Front-End-Develop-Guide/issues/new)_
 
-> 想了解关于该指南及 前端开发 更多信息的同学，可以阅读短文《[致 Front-End Developers](https://github.com/w3crange/Front-End-Develop-Guide/blob/master/2015letter.md)》。 想查看优秀的开源项目，可以访问[《Front-End Develop 项目精选》](https://github.com/w3crange/Front-End-Develop-Guide/blob/master/Featured.md)。希望查看精选文章，可以访问[《Front-End Develop 文章精选》](https://github.com/w3crange/Front-End-Develop-Guide/blob/master/Featured-Articles.md)。
+> 想了解关于该指南及 前端开发 更多信息的同学，可以阅读短文《[致 Front-End Developers](https://github.com/w3crange/Front-End-Develop-Guide/blob/master/2015letter.md)》。 想查看优秀的开源项目，可以访问[《Front-End Develop 项目精选》](https://github.com/w3crange/Front-End-Develop-Guide/blob/master/Featured.md)。希望查看精选文章，可以访问[《Front-End Develop 文章精选》](https://github.com/w3crange/Front-End-Develop-Guide/blob/master/Featured-Articles.md)。也欢迎企业在湖南招聘人才提供工作岗位(請附上薪資)，可以提交到[工作岗位](https://github.com/w3crange/Front-End-Develop-Guide/issues/3)。
 
 由[@icepy](http://weibo.com/2455876310/profile?topnav=1&wvr=6)负责整理
 
@@ -14,7 +14,7 @@ GitHub：[w3crange/Front-End-Develop-Guide](https://github.com/w3crange/Front-En
 
 让web前端，JS开发在湖南可以成为大家热爱的工作与成熟的产业。
 
-Front-End Developers Hunan
+**Front-End Developers Hunan**
 
 **由于个人精力有限，不足之处还望大家多多包容与提供建议。**
 
