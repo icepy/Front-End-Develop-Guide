@@ -357,8 +357,8 @@ vim常用的插件：
 
 * [Web Developer技能树](https://github.com/phodal/skilltree)：类似《魔兽世界》中的天赋树；
 * [octotree](https://github.com/buunguyen/octotree)：浏览器扩展(Chrome,Firefox,Safari和Opera)显示GitHub树格式的代码；
-* [react-native](https://github.com/facebook/react-native)：用于编写移动App；
-* [ionic](https://github.com/driftyco/ionic)：用于编写Hybrid App；
+* [react-native](https://github.com/facebook/react-native)：出品的一个可以使用JavaScript来构建Native UI的库；
+* [ionic](https://github.com/driftyco/ionic)：Ionic是一个强大的HTML5 原生应用（native app） 开发框架，帮助你用HTMLL，css和javascript构建具有原生味道的移动应用（mobile apps）；
 * [passport-bnet](https://github.com/Blizzard/passport-bnet)：暴雪提供的Nodejs版SDK
 * [hexo](https://github.com/hexojs/hexo)：编写博客使用的工具
 * [traceur-compiler](https://github.com/google/traceur-compiler)：可以运行未来的JavaScript的JavaScript；
@@ -387,7 +387,7 @@ vim常用的插件：
 * [cheerio](https://github.com/cheeriojs/cheerio)：它可以从一坨html的片断中构建DOM结构，然后提供像jquery一样的css选择器查询；
 * [express](https://github.com/strongloop/express)：它用于构建Web网站，非常快速；
 * [node-mongodb-native](https://github.com/mongodb/node-mongodb-native)：nodejs用于操作mongodb；
-* [ejs](https://github.com/tj/ejs)：JavaScript模版引擎；
+* [ejs](https://github.com/tj/ejs)：JavaScript模板引擎；
 * [riot](https://github.com/riot/riot)：一个小巧的UI和代码结构的框架；
 * [JavaScript-MD5](https://github.com/blueimp/JavaScript-MD5)：JS版的MD5;
 * [zepto](https://github.com/madrobby/zepto)：在浏览器(Safari、Chrome和Firefox)上开发页面应用或者构建基于html的web-view本地应用，如PhoneGap，使用Zepto是一个不错的选择；
@@ -399,6 +399,11 @@ vim常用的插件：
 * [backbone](https://github.com/jashkenas/backbone)：Backbone.js为复杂WEB应用程序提供模型(models)、集合(collections)、视图(views)的结构。其中模型用于绑定键值数据和自定义事件；集合附有可枚举函数的丰富API； 视图可以声明事件处理函数，并通过RESRful JSON接口连接到应用程序。
 * [jquery](https://github.com/jquery/jquery)：jQuery 是一个高效、精简并且功能丰富的JavaScript 工具库；
 * [angular.js](https://github.com/angular/angular.js)：AngularJS是为了克服HTML在构建应用上的不足而设计的，通过为开发者呈现一个更高层次的抽象来简化应用的开发。如同其他的抽象技术一样，这也会损失一部分灵活性。换句话说，并不是所有的应用都适合用AngularJS来做。AngularJS主要考虑的是构建CRUD应用。幸运的是，至少90%的WEB应用都是CRUD应用。但是要了解什么适合用AngularJS构建，就得了解什么不适合用AngularJS构建。
+* [Flow](https://github.com/facebook/flow)：Facebook出品的一个JavaScript静态编译器；
+* [avalon](https://github.com/RubyLouvre/avalon)：用于构建Web界面的MVVM JavaScript框架；
+* [requirejs](https://github.com/jrburke/requirejs)：JavaScript模块化的开山鼻祖；
+* [seajs](https://github.com/seajs/seajs)：中国开发者编写的一个JavaScript模块化库；
+* [d3](https://github.com/mbostock/d3)：基于JavaScript编写的一个图表库，非常强大。
 
 ####3. 开放平台
 
