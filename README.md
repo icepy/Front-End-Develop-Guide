@@ -245,6 +245,8 @@ web前端开发可能包括HTML,CSS,JavaScript,Web API,SVG,WebGL,MathML等，语
 [InfoQ](http://www.infoq.com/cn/) | <http://www.infoq.com/cn/>
 [Segmentfault](http://segmentfault.com/) | <http://segmentfault.com/>
 [Get社区](http://get.jobdeer.com/) | <http://get.jobdeer.com/>
+[极客头条](http://geek.csdn.net/hotest) | <http://geek.csdn.net/hotest>
+[极客头条－前端](http://geek.csdn.net/forum/47) | <http://geek.csdn.net/forum/47>
 
 ## <a id="fed_jishu_share"></a> 技术分享会议
 
