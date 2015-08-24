@@ -113,8 +113,8 @@ web前端开发可能包括HTML,CSS,JavaScript,Web API,SVG,WebGL,MathML等，语
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)：(深入JavaScript语言核心机制的系列图书)；
 
 ### <a id="javascript_library"></a>了解常用库与框架的使用文档
-	
-* jQuery	
+
+* jQuery
 	* [jQuery 解构](http://www.cn-cuckoo.com/deconstructed/jquery.html)
 	* [简单易懂的JQuery魔法](http://www.nowamagic.net/librarys/books/contents/jquery)
 	* [How to write jQuery plugin](http://i5ting.github.io/How-to-write-jQuery-plugin/build/jquery.plugin.html)
@@ -149,7 +149,7 @@ web前端开发可能包括HTML,CSS,JavaScript,Web API,SVG,WebGL,MathML等，语
     * [Discover Meteor](http://zh.discovermeteor.com/)
 
 ### <a id="javascript_nodejs"></a> Node.js
-    
+
 * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
 * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
 * [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
@@ -184,7 +184,7 @@ web前端开发可能包括HTML,CSS,JavaScript,Web API,SVG,WebGL,MathML等，语
 
 博客地址 | RSS地址
 ----- | -----
-[Plane Art](http://www.planeart.cn) | <http://www.planeart.cn/?feed=rss2> 
+[Plane Art](http://www.planeart.cn) | <http://www.planeart.cn/?feed=rss2>
 [王玮的博客](http://imvirgo.com) | <http://imvirgo.com/feed/>
 [UED TEAM](http://www.ued163.com) | <http://www.ued163.com/?feed=rss2>
 [随网之舞](http://dancewithnet.com) | <http://feeds.feedburner.com/dancewithnet>
@@ -343,9 +343,11 @@ vim常用的插件：
 ####3. Mac工具
 
 * [HomeBrew](http://brew.sh/index_zh-cn.html)：OS X上非常优秀的包管理工具；
+* [HomeBrew-Cask](http://ksmx.me/homebrew-cask-cli-workflow-to-install-mac-applications/)：简洁优雅的Mac OS X软件安装体验；
 * [iTerm 2](http://www.iterm2.com/index.html)：OS X上一个增强版的shell终端；
 * [oh-my-zsh](http://ohmyz.sh/)：OS X上用来增强shell命令行的工具；
 * [Dash](https://kapeli.com/dash)：Dash is an API Documentation Browser and Code Snippet Manager. Dash stores snippets of code and instantly searches offline documentation sets for 150+ APIs (for a full list, see below). You can even generate your own docsets or request docsets to be included；
+* [tmux](http://aquaregia.gitbooks.io/tmux-productive-mouse-free-development_zh/content/index.html)：终端复用神器，帮助在Mac或者Linux上做开发的程序员在使用终端时更加得心应手；
 
 ####4. VPN
 
@@ -649,7 +651,7 @@ vim常用的插件：
 [[英] 如何实现基于物理的 UI 动效 (desandro)](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fdesandro%2Fpractical-ui-physics&aid=3286&nid=84)  
 [写给前端面试者 (@w3cplus)](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Famfe%2Farticle%2Fissues%2F5&aid=3293&nid=84)  
 [SVG 图标在移动端的应用 (ljian)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fued.ctrip.com%2Fblog%2F%3Fp%3D3893&aid=3299&nid=84)  
-[[译] 如何成为一名卓越的前端工程师 (@勾三股四)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fjiongks.name%2Fblog%2Fhow-to-become-a-great-front-end-engineer%2F&aid=3303&nid=84) 
+[[译] 如何成为一名卓越的前端工程师 (@勾三股四)](http://weekly.manong.io/bounce?url=http%3A%2F%2Fjiongks.name%2Fblog%2Fhow-to-become-a-great-front-end-engineer%2F&aid=3303&nid=84)
 [前端工程与性能优化（张云龙）](http://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.infoq.com%2Fcn%2Farticles%2Ffront-end-engineering-and-performance-optimization-part1&aid=38&nid=3)  
 [15个响应式设计前端框架](http://weekly.manong.io/bounce?url=http%3A%2F%2Fbeforweb.com%2Fnode%2F331&aid=113&nid=7)  
 [Font Awesome 4 发布](http://weekly.manong.io/bounce?url=http%3A%2F%2Ffontawesome.io%2F&aid=116&nid=7)  
