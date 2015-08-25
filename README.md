@@ -25,9 +25,9 @@ GitHub：[w3crange/Front-End-Develop-Guide](https://github.com/w3crange/Front-En
 * [Front-End Develop 文档](#fed_doc)
 	* [Welcome to Front-End Develop](#fed_we)
 	* [Front-End Develop Language](#fed_language)
-		* [HTML&HTML5文档](#html_doc)
-		* [CSS&CSS3文档](#css_doc)
-			* [CSS Style Guid](#css_style_guide)
+		* [HTML&HTML5 文档](#html_doc)
+		* [CSS&CSS3 文档](#css_doc)
+			* [CSS Style Guide](#css_style_guide)
 			* [CSS Language](#css_language)
 		* [JavaScript 文档](#javascript_doc)
 			* [JavaScript Style Guide](#javascript_style_guide)
@@ -36,6 +36,7 @@ GitHub：[w3crange/Front-End-Develop-Guide](https://github.com/w3crange/Front-En
 			* [Node.js](#javascript_nodejs)
 			* [Mongodb](#javascript_mongodb)
 			* [Chrome扩展开发](#javascript_chrome)
+		* [HTTP 文档](#fed_http)
 	* [Front-End Questions](#fed_questions)
 	* [Front-End Developer Blog](#fed_blog)
 	* [通用Developer 社区](#fed_community)
@@ -97,7 +98,7 @@ web前端开发可能包括HTML,CSS,JavaScript,Web API,SVG,WebGL,MathML等，语
 * [Google JSON 风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)：该风格指南是对在Google创建JSON APIs而提供的指导性准则和建议。总体来讲，JSON APIs应遵循JSON.org上的规范。这份风格指南澄清和标准化了特定情况，从而使Google的JSON APIs有一种标准的外观和感觉。这些指南适用于基于RPC和基于REST风格的API的JSON请求和响应；
 * [Javascript编程指南](http://pij.robinqu.me/) ([源码](https://github.com/RobinQu/Programing-In-Javascript))
 
-### <a id="javascript_language"></a> JavaScript Language
+#### <a id="javascript_language"></a> JavaScript Language
 
 * [重新介绍 JavaScript（JS 教程）](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)：是火狐推出的一系列的JS教程，为什么会有这一篇“重新介绍”呢？因为 JavaScript 堪称世界上被人误解最深的编程语言。虽然常被视作“玩具语言”，但它看似简洁外衣下，还隐藏着强大的语言特性。 JavaScript 目前广泛应用于一大批知名应用中，对于网页和移动开发者来说，深入理解 JavaScript 就尤有必要；
 * [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)
@@ -112,7 +113,7 @@ web前端开发可能包括HTML,CSS,JavaScript,Web API,SVG,WebGL,MathML等，语
 * [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)：讲述Promise实现；
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)：(深入JavaScript语言核心机制的系列图书)；
 
-### <a id="javascript_library"></a>了解常用库与框架的使用文档
+#### <a id="javascript_library"></a>了解常用库与框架的使用文档
 
 * jQuery
 	* [jQuery 解构](http://www.cn-cuckoo.com/deconstructed/jquery.html)
@@ -148,7 +149,7 @@ web前端开发可能包括HTML,CSS,JavaScript,Web API,SVG,WebGL,MathML等，语
 * Meteor
     * [Discover Meteor](http://zh.discovermeteor.com/)
 
-### <a id="javascript_nodejs"></a> Node.js
+#### <a id="javascript_nodejs"></a> Node.js
 
 * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
 * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
@@ -162,14 +163,22 @@ web前端开发可能包括HTML,CSS,JavaScript,Web API,SVG,WebGL,MathML等，语
 * [Node debug 三法三例](http://i5ting.github.io/node-debug-tutorial/)
 * [nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
 
-### <a id="javascript_mongodb"></a>Mongodb
+#### <a id="javascript_mongodb"></a>Mongodb
 
 * [the-little-mongodb-book-cn](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md)
 
 
-### <a id="javascript_chrome"></a>Chrome扩展开发
+#### <a id="javascript_chrome"></a>Chrome扩展开发
 
 * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
+
+## <a id="fed_http"></a> HTTP 文档
+
+本篇文章不会对 HTTP 的细节进行深究，而是从够高和更结构化的角度将 HTTP 协议的元素进行分类讲解，可以先阅读[HTTP 协议漫谈](http://blog.jobbole.com/88199/)和[图解Http协议](http://www.bysocket.com/?p=282)来对HTTP有一个大概的了解。
+
+* [HTTP协议](http://www.cnblogs.com/TankXiao/category/415412.html)
+* [HTTP/2协议的背景、内容、实现和未来](http://ye11ow.gitbooks.io/http2-explained/content/)
+* [HTTP接口设计指南](https://github.com/bolasblack/http-api-guide)
 
 ## <a id="fed_questions"></a>Front-End Questions
 
