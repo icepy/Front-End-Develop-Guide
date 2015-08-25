@@ -71,7 +71,7 @@ web前端开发可能包括HTML,CSS,JavaScript,Web API,SVG,WebGL,MathML等，语
 ### <a id="css_doc"></a> CSS&CSS3 文档
 ===
 
-#### <a id="css_style_guide"></a> CSS Style Guid
+#### <a id="css_style_guide"></a> CSS Style Guide
 
 * [编码规范 by @mdo](http://zoomzhao.github.io/code-guide/)：开发灵活，稳定，可持续 HTML 和 CSS 代码的规范，每一项都有很详细的解释；
 * [css guide lines](http://cssguidelin.es/)
