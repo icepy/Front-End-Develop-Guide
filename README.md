@@ -32,11 +32,13 @@ GitHub：[w3crange/Front-End-Develop-Guide](https://github.com/w3crange/Front-En
 		* [JavaScript 文档](#javascript_doc)
 			* [JavaScript Style Guide](#javascript_style_guide)
 			* [JavaScript Language](#javascript_language)
+			* [JavaScript 日志](#javascript_log)
 			* [常用库与框架的使用文档](#javascript_library)
 			* [Node.js](#javascript_nodejs)
 			* [Mongodb](#javascript_mongodb)
 			* [Chrome扩展开发](#javascript_chrome)
-		* [HTTP 文档](#fed_http)
+	* [HTTP 文档](#fed_http)
+	* [缓存策略](#fed_cache)
 	* [Front-End Questions](#fed_questions)
 	* [Front-End Developer Blog](#fed_blog)
 	* [通用Developer 社区](#fed_community)
@@ -117,6 +119,10 @@ web前端开发可能包括HTML,CSS,JavaScript,Web API,SVG,WebGL,MathML等，语
 * [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)：讲述Promise实现；
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)：(深入JavaScript语言核心机制的系列图书)；
 
+#### <a id="javascript_log"></a> JavaScript 日志
+
+[前端代码异常日志与监控](http://www.cnblogs.com/hustskyking/p/fe-monitor.html)
+
 #### <a id="javascript_library"></a>了解常用库与框架的使用文档
 
 * jQuery
@@ -176,7 +182,7 @@ web前端开发可能包括HTML,CSS,JavaScript,Web API,SVG,WebGL,MathML等，语
 
 * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
 
-## <a id="fed_http"></a> HTTP 文档
+## <a id="fed_http"></a>HTTP 文档
 
 下面两篇文章不会对 HTTP 的细节进行深究，而是从够高和更结构化的角度将 HTTP 协议的元素进行分类讲解，可以先阅读[HTTP 协议漫谈](http://blog.jobbole.com/88199/)和[图解Http协议](http://www.bysocket.com/?p=282)来对HTTP有一个大概的了解。
 
@@ -184,6 +190,12 @@ web前端开发可能包括HTML,CSS,JavaScript,Web API,SVG,WebGL,MathML等，语
 * [HTTP/2协议的背景、内容、实现和未来](http://ye11ow.gitbooks.io/http2-explained/content/)
 * [HTTP接口设计指南](https://github.com/bolasblack/http-api-guide)
 * [白话 HTTPS & SSL/TSL](http://www.jianshu.com/p/992bad24412e)：你肯定能阅读明白。
+
+## <a id="fed_cache"></a> 缓存策略
+
+cache是提高应用性能重要的一个环节，必需要有所了解。
+
+[Web缓存机制系列](http://www.alloyteam.com/2012/03/web-cache-1-web-cache-overview/)
 
 ## <a id="fed_questions"></a>Front-End Questions
 
@@ -358,12 +370,16 @@ vim常用的插件：
 
 ####3. Mac工具
 
+关于Mac平台的使用，推荐大家阅读[入门精选](http://wsgzao.github.io/post/mac/)
+
 * [HomeBrew](http://brew.sh/index_zh-cn.html)：OS X上非常优秀的包管理工具；
 * [HomeBrew-Cask](http://ksmx.me/homebrew-cask-cli-workflow-to-install-mac-applications/)：简洁优雅的Mac OS X软件安装体验；
 * [iTerm 2](http://www.iterm2.com/index.html)：OS X上一个增强版的shell终端；
 * [oh-my-zsh](http://ohmyz.sh/)：OS X上用来增强shell命令行的工具；
 * [Dash](https://kapeli.com/dash)：Dash is an API Documentation Browser and Code Snippet Manager. Dash stores snippets of code and instantly searches offline documentation sets for 150+ APIs (for a full list, see below). You can even generate your own docsets or request docsets to be included；
 * [tmux](http://aquaregia.gitbooks.io/tmux-productive-mouse-free-development_zh/content/index.html)：终端复用神器，帮助在Mac或者Linux上做开发的程序员在使用终端时更加得心应手；
+* [MacVim](https://github.com/b4winckler/macvim)：Mac下GUI vim编辑器；
+* [Xcode](https://developer.apple.com/xcode/downloads/)：也许你用不上，安装Xcode主要是为了Xcode command line tools工具包，你也可以选择不安装Xcode，使用xcode-select --install跳过Xcode的安装；
 
 ####4. VPN
 
