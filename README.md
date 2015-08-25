@@ -49,6 +49,10 @@ GitHub：[w3crange/Front-End-Develop-Guide](https://github.com/w3crange/Front-En
 
 # <a id="fed_doc"></a> Front-End Develop 文档
 
+初略读懂Front-End Develop要做些什么
+
+[Web Front-End Stack](https://github.com/unruledboy/WebFrontEndStack/blob/master/README.md)：这张图非常详细。
+
 ## <a id="fed_we"></a> Welcom to Front-End Develop
 
 W3C组织提供了官网的地址：[w3.org](http://www.w3.org/)，可以去查询最近实现的标准以及将来可能实现的讨论。
@@ -174,11 +178,12 @@ web前端开发可能包括HTML,CSS,JavaScript,Web API,SVG,WebGL,MathML等，语
 
 ## <a id="fed_http"></a> HTTP 文档
 
-本篇文章不会对 HTTP 的细节进行深究，而是从够高和更结构化的角度将 HTTP 协议的元素进行分类讲解，可以先阅读[HTTP 协议漫谈](http://blog.jobbole.com/88199/)和[图解Http协议](http://www.bysocket.com/?p=282)来对HTTP有一个大概的了解。
+下面两篇文章不会对 HTTP 的细节进行深究，而是从够高和更结构化的角度将 HTTP 协议的元素进行分类讲解，可以先阅读[HTTP 协议漫谈](http://blog.jobbole.com/88199/)和[图解Http协议](http://www.bysocket.com/?p=282)来对HTTP有一个大概的了解。
 
 * [HTTP协议](http://www.cnblogs.com/TankXiao/category/415412.html)
 * [HTTP/2协议的背景、内容、实现和未来](http://ye11ow.gitbooks.io/http2-explained/content/)
 * [HTTP接口设计指南](https://github.com/bolasblack/http-api-guide)
+* [白话 HTTPS & SSL/TSL](http://www.jianshu.com/p/992bad24412e)：你肯定能阅读明白。
 
 ## <a id="fed_questions"></a>Front-End Questions
 
