@@ -29,6 +29,7 @@ GitHub：[w3crange/Front-End-Develop-Guide](https://github.com/w3crange/Front-En
 		* [CSS&CSS3 文档](#css_doc)
 			* [CSS Style Guide](#css_style_guide)
 			* [CSS Language](#css_language)
+			* [Sass Guide](#sass_guide)
 		* [JavaScript 文档](#javascript_doc)
 			* [JavaScript Style Guide](#javascript_style_guide)
 			* [JavaScript Language](#javascript_language)
@@ -92,6 +93,13 @@ web前端开发可能包括HTML,CSS,JavaScript,Web API,SVG,WebGL,MathML等，语
 * [Magic of CSS](http://adamschwartz.co/magic-of-css/)
 * [CSS词汇表](http://yisibl.github.io/css-vocabulary/)：查询CSS的词汇；
 * [CSS参考](http://css.doyoe.com/)
+
+#### <a id="sass_guide"></a> Sass Guide
+
+* [Sass基础知识](http://sass-lang.com/guide)：Sass官网，讲述Sass/SCSS应用的基础知识，变量、函数、条件、循环、宏等等；
+* [Sass中文网](http://www.sasschina.com/)：中文大，给E文不好的小朋友们；
+* [Sass Guidelines](http://sass-guidelin.es/zh/)：这是由Sass专家[Hugo Giraudel](http://hugogiraudel.com/)撰写的一份“编写稳健、可维护和可扩展的Sass”的指南，这份指南已被翻译成中文；
+* [Sass meister](http://sassmeister.com/)：在线Sass/SCSS调试器；
 
 ### <a id="javascript_doc"></a> JavaScript 文档
 ===
