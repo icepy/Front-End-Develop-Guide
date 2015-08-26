@@ -41,6 +41,7 @@ GitHub：[w3crange/Front-End-Develop-Guide](https://github.com/w3crange/Front-En
 	* [开放网络标准](#fed_openAPI)
 	* [HTTP 文档](#fed_http)
 	* [缓存策略](#fed_cache)
+	* [前端自动化工具](#fed_automate_kit)
 	* [Front-End Questions](#fed_questions)
 	* [Front-End Developer Blog](#fed_blog)
 	* [通用Developer 社区](#fed_community)
@@ -211,6 +212,14 @@ web前端开发可能包括HTML,CSS,JavaScript,Web API,SVG,WebGL,MathML等，语
 cache是提高应用性能重要的一个环节，必需要有所了解。
 
 [Web缓存机制系列](http://www.alloyteam.com/2012/03/web-cache-1-web-cache-overview/)
+
+## <a id="fed_automate_kit"></a> 前端自动化工具
+
+现在的前端自动化工具主要如下三个流派，目测涵盖90%以上经常使用。
+
+* [Grunt JavaScript世界的构建工具](http://www.gruntjs.net/)
+* [Gulp 用自动化构建工具增强你的工作流](http://www.gulpjs.com.cn/)
+* [Webpack](https://github.com/webpack/webpack)
 
 ## <a id="fed_questions"></a>Front-End Questions
 
