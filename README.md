@@ -282,6 +282,7 @@ cache是提高应用性能重要的一个环节，必需要有所了解。
 ----- | -----
 [领略前端技术 阅读奇舞周刊](http://www.75team.com/weekly/)|<http://www.75team.com/weekly/>
 [div.io](http://div.io/#/welcome) | <http://div.io/#/welcome>
+[稀土掘金](http://gold.xitu.io) | <http://gold.xitu.io>
 [开发者头条](http://toutiao.io/) | <http://toutiao.io/>
 [码农周刊](http://weekly.manong.io/) | <http://weekly.manong.io/>
 [InfoQ](http://www.infoq.com/cn/) | <http://www.infoq.com/cn/>
