@@ -37,6 +37,7 @@ GitHub：[w3crange/Front-End-Develop-Guide](https://github.com/w3crange/Front-En
 			* [Node.js](#javascript_nodejs)
 			* [Mongodb](#javascript_mongodb)
 			* [Chrome扩展开发](#javascript_chrome)
+	* [开放网络标准](#fed_openAPI)
 	* [HTTP 文档](#fed_http)
 	* [缓存策略](#fed_cache)
 	* [Front-End Questions](#fed_questions)
@@ -182,7 +183,11 @@ web前端开发可能包括HTML,CSS,JavaScript,Web API,SVG,WebGL,MathML等，语
 
 * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
 
-## <a id="fed_http"></a>HTTP 文档
+## <a id="fed_openAPI"></a> 开放网络标准
+
+[理解OAuth 2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
+
+## <a id="fed_http"></a> HTTP 文档
 
 下面两篇文章不会对 HTTP 的细节进行深究，而是从够高和更结构化的角度将 HTTP 协议的元素进行分类讲解，可以先阅读[HTTP 协议漫谈](http://blog.jobbole.com/88199/)和[图解Http协议](http://www.bysocket.com/?p=282)来对HTTP有一个大概的了解。
 
@@ -190,6 +195,8 @@ web前端开发可能包括HTML,CSS,JavaScript,Web API,SVG,WebGL,MathML等，语
 * [HTTP/2协议的背景、内容、实现和未来](http://ye11ow.gitbooks.io/http2-explained/content/)
 * [HTTP接口设计指南](https://github.com/bolasblack/http-api-guide)
 * [白话 HTTPS & SSL/TSL](http://www.jianshu.com/p/992bad24412e)：你肯定能阅读明白。
+
+深入全面了解，可阅读[HTTP权威指南](http://book.douban.com/subject/10746113/)。
 
 ## <a id="fed_cache"></a> 缓存策略
 
