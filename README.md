@@ -33,22 +33,28 @@ GitHub：[w3crange/Front-End-Develop-Guide](https://github.com/w3crange/Front-En
 		* [JavaScript 文档](#javascript_doc)
 			* [JavaScript Style Guide](#javascript_style_guide)
 			* [JavaScript Language](#javascript_language)
-			* [JavaScript 日志](#javascript_log)
-			* [常用库与框架的使用文档](#javascript_library)
-			* [Node.js](#javascript_nodejs)
-			* [Mongodb](#javascript_mongodb)
-			* [Chrome扩展开发](#javascript_chrome)
-	* [开放网络标准](#fed_openAPI)
-	* [HTTP 文档](#fed_http)
-	* [缓存策略](#fed_cache)
-	* [前端自动化工具](#fed_automate_kit)
+	* [Front-End Develop Fly](#fed_fly)
+		* [常用库与框架的使用文档](#fed_library)
+		* [JavaScript 日志](#fed_log)
+		* [开放网络标准](#fed_openAPI)
+		* [HTTP 文档](#fed_http)
+		* [缓存策略](#fed_cache)
+		* [前端自动化工具](#fed_automate_kit)
+	* [Front-End Develop 项目与工具](#fed_project_kit)
+		* [相关工具](#fed_kit)
+		* [Front-End Develop 开源项目](#fed_opensource)
 	* [Front-End Questions](#fed_questions)
 	* [Front-End Developer Blog](#fed_blog)
 	* [通用Developer 社区](#fed_community)
-* [技术分享会议](#fed_jishu_share)
-* [Front-End Develop 项目与工具](#fed_project_kit)
-	* [相关工具](#fed_kit)
-	* [Front-End Develop 开源项目](#fed_opensource)
+	* [技术分享会议](#fed_jishu_share)
+* [延伸可扩展的方向](#fed_scalable)
+	* [Node.js](#fed_nodejs)
+	* [Mongodb](#fed_mongodb)
+	* [WebGL](#fed_webGL)
+	* [Chrome扩展开发](#fed_chrome)
+	* [桌面应用程序开发](#fed_PCAPP)
+	* [移动应用程序开发](#fed_mobile)
+	* [V8 引擎文献](#fed_v8)
 * [Front-End 需要了解的数据结构与算法](#fed_datastructure)
 * [Front-End Develop 优秀文章](#fed_article)
 
@@ -129,11 +135,11 @@ web前端开发可能包括HTML,CSS,JavaScript,Web API,SVG,WebGL,MathML等，语
 * [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)：讲述Promise实现；
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)：(深入JavaScript语言核心机制的系列图书)；
 
-#### <a id="javascript_log"></a> JavaScript 日志
+## <a id="fed_fly"></a> Front-End Develop Fly
 
-[前端代码异常日志与监控](http://www.cnblogs.com/hustskyking/p/fe-monitor.html)
+如果你想飞起来，这正是好去处。
 
-#### <a id="javascript_library"></a>了解常用库与框架的使用文档
+### <a id="fed_library"></a>了解常用库与框架的使用文档
 
 * jQuery
 	* [jQuery 解构](http://www.cn-cuckoo.com/deconstructed/jquery.html)
@@ -169,51 +175,33 @@ web前端开发可能包括HTML,CSS,JavaScript,Web API,SVG,WebGL,MathML等，语
 * Meteor
     * [Discover Meteor](http://zh.discovermeteor.com/)
 
-#### <a id="javascript_nodejs"></a> Node.js
+### <a id="javascript_log"></a> JavaScript 日志
 
-* [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
-* [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
-* [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
-* [express.js 中文文档](http://expressjs.jser.us/)
-* [koa 中文文档](https://github.com/turingou/koa-guide)
-* [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog)
-* [Express框架](http://javascript.ruanyifeng.com/nodejs/express.html)
-* [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
-* [Learn You The Node.js For Much Win! (中文版)](https://www.npmjs.org/package/learnyounode-zh-cn)
-* [Node debug 三法三例](http://i5ting.github.io/node-debug-tutorial/)
-* [nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
+[前端代码异常日志与监控](http://www.cnblogs.com/hustskyking/p/fe-monitor.html)
 
-#### <a id="javascript_mongodb"></a>Mongodb
-
-* [the-little-mongodb-book-cn](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md)
-
-
-#### <a id="javascript_chrome"></a>Chrome扩展开发
-
-* [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
-
-## <a id="fed_openAPI"></a> 开放网络标准
+### <a id="fed_openAPI"></a> 开放网络标准
 
 [理解OAuth 2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
 
-## <a id="fed_http"></a> HTTP 文档
+### <a id="fed_http"></a> HTTP 文档
 
 下面两篇文章不会对 HTTP 的细节进行深究，而是从够高和更结构化的角度将 HTTP 协议的元素进行分类讲解，可以先阅读[HTTP 协议漫谈](http://blog.jobbole.com/88199/)和[图解Http协议](http://www.bysocket.com/?p=282)来对HTTP有一个大概的了解。
 
 * [HTTP协议](http://www.cnblogs.com/TankXiao/category/415412.html)
 * [HTTP/2协议的背景、内容、实现和未来](http://ye11ow.gitbooks.io/http2-explained/content/)
+* [HTTP 下午茶](http://happypeter.github.io/tealeaf-http/#chinese)
 * [HTTP接口设计指南](https://github.com/bolasblack/http-api-guide)
 * [白话 HTTPS & SSL/TSL](http://www.jianshu.com/p/992bad24412e)：你肯定能阅读明白。
 
 深入全面了解，可阅读[HTTP权威指南](http://book.douban.com/subject/10746113/)。
 
-## <a id="fed_cache"></a> 缓存策略
+### <a id="fed_cache"></a> 缓存策略
 
 cache是提高应用性能重要的一个环节，必需要有所了解。
 
 [Web缓存机制系列](http://www.alloyteam.com/2012/03/web-cache-1-web-cache-overview/)
 
-## <a id="fed_automate_kit"></a> 前端自动化工具
+### <a id="fed_automate_kit"></a> 前端自动化工具
 
 现在的前端自动化工具主要如下三个流派，目测涵盖90%以上经常使用。
 
@@ -221,109 +209,9 @@ cache是提高应用性能重要的一个环节，必需要有所了解。
 * [Gulp 用自动化构建工具增强你的工作流](http://www.gulpjs.com.cn/)
 * [Webpack](https://github.com/webpack/webpack)
 
-## <a id="fed_questions"></a>Front-End Questions
-
-* [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)：面试题集合；
-* [中文前端开发面试题](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions) 中文前端开发面试题
-* [Mars - mobile needs a hero](https://github.com/AlloyTeam/Mars)：腾讯出品的移动端实践；
-* [mobileTech](https://github.com/jtyjty99999/mobileTech)：收集了移动端出现的问题以及解决思路与技巧；
-
-
-## <a id="fed_blog"></a> Front-End Developer Blog
-
-中文 Front-End 开发博客列表，本博客列表会长期维护，如果有推荐的博客，请到此处[提交博客信息](https://github.com/w3crange/Front-End-Develop-Guide/issues/1)
-
-博客地址 | RSS地址
------ | -----
-[Plane Art](http://www.planeart.cn) | <http://www.planeart.cn/?feed=rss2>
-[王玮的博客](http://imvirgo.com) | <http://imvirgo.com/feed/>
-[UED TEAM](http://www.ued163.com) | <http://www.ued163.com/?feed=rss2>
-[随网之舞](http://dancewithnet.com) | <http://feeds.feedburner.com/dancewithnet>
-[不名一格](http://www.microidc.com) | <http://www.microidc.com/feed/>
-[Hugo Web前端开发](http://www.ghugo.com) | <http://www.ghugo.com/feed/>
-[阿里巴巴（中文站）用户体验设计部博客](http://www.aliued.cn) | <http://www.aliued.cn/feed>
-[何畏](http://www.lzlu.com/blog) | <http://www.lzlu.com/blog/?feed=rss2>
-[PlanABC - 怿飞’s Blog](http://www.planabc.net) | <http://feed.planabc.net/>
-[Designsor](http://www.designsor.com) | <http://www.designsor.com/feed>
-[Time Machine](http://rlog.cn) | <http://rlog.cn/?feed=rss2>
-[为之漫笔](http://blog.cn-cuckoo.com) | <http://www.cn-cuckoo.com/feed>
-[博客园_风流涕淌](http://www.cnblogs.com/Philoo) | <http://www.cnblogs.com/Philoo/rss>
-[彬Go](http://blog.bingo929.com) | <http://blog.bingo929.com/feed>
-[Gracecode.com](http://www.gracecode.com/) | <http://feeds.gracecode.com/gracecode/>
-[Koubei UED](http://ued.koubei.com) | <http://ued.koubei.com/?feed=rss2>
-[Alibaba.com UED](http://www.aliued.com) | <http://www.aliued.com/feed/>
-[Taobao UED Team](http://ued.taobao.org/blog) | <http://ued.taobao.com/blog/feed/>
-[博客园-振之博文](http://www.cnblogs.com/zhenn/rss) | <http://www.cnblogs.com/zhenn/>
-[Kejun's Blog](http://hikejun.com/blog) | <http://hikejun.com/blog/?feed=rss2>
-[博客园_纸头折飞机](http://www.cnblogs.com/xueduanyang/) | <http://www.cnblogs.com/xueduanyang/rss>
-[最前端的生活](http://www.bq69.com/) | <http://www.bq69.com/feed>
-[腾讯CDC](http://cdc.tencent.com) | <http://cdc.tencent.com/?feed=rss2>
-[博客园_叶小钗](http://www.cnblogs.com/yexiaochai/) | <http://www.cnblogs.com/yexiaochai/rss>
-[Hua's View](http://huaview.com) | <http://huaview.com/feed>
-[RainBlog-烟雨空间](http://rain520.net/) | <http://rain520.net/Feed/rss.xml>
-[web前端开发工程师的随记--黑妞haha](http://www.heiniuhaha.cn/blog) | <http://www.heiniuhaha.cn/blog/?feed=rss2>
-[蓝色理想](http://www.blueidea.com) | <http://www.blueidea.com/common/rss.asp>
-[博客园_Ruby's Louvre](http://www.cnblogs.com/rubylouvre/) | <http://www.cnblogs.com/rubylouvre/rss>
-[hax的技术部落格](http://hax.iteye.com)|<http://hax.javaeye.com/rss>
-[CssRain-前端技术](http://www.cssrain.cn/) | <http://www.cssrain.cn/?feed=rss2>
-[MED](http://ued.alimama.com) | <http://ued.alimama.com/feed/>
-[W3CPLUS](http://www.w3cplus.com) | <http://feed.feedsky.com/W3CPlus>
-[博客园_winter-cn](http://www.cnblogs.com/winter-cn/rss) | <http://www.cnblogs.com/winter-cn/>
-[走走停停看看](http://shawphy.com) | <http://shawphy.com/feed>
-[Hi, I'm Adam Lu.](http://adamlu.com) | <http://adamlu.com/?feed=rss2>
-[WEB前端开发](http://www.css88.com) | <http://www.css88.com/feed>
-[岁月如歌](https://lifesinger.wordpress.com) | <http://lifesinger.wordpress.com/feed/>
-[Web开发中需要了解的东西](http://coolshell.cn) | <http://coolshell.cn/feed>
-[样式之美](http://www.aoao.org.cn) | <http://feeds2.feedburner.com/aoao>
-[時計坂一刻館三号室](http://www.quchao.com/) | <http://feed.quchao.com/>
-[CSS森林(CSS Forest)](http://www.cssforest.org/blog/) | <http://www.cssforest.org/blog/index.php?atom=1>
-[Ross Wan's World!](https://mrwlwan.wordpress.com) | <http://mrwlwan.wordpress.com/feed/>
-[博客园_汤姆大叔的博客](http://www.cnblogs.com/TomXu/) | <http://www.cnblogs.com/TomXu/rss>
-[前端观察](http://www.qianduan.net/) | <http://www.qianduan.net/feed>
-
-## <a id="fed_community"></a> 通用Developer 社区
-
-在Github上找到一个社区网站收集的项目-- [front-end-collect](https://github.com/foru17/front-end-collect)
-
-中文 Developer 社区列表，本社区列表会长期维护，如果有推荐的社区，请到此处[提交社区信息](https://github.com/w3crange/Front-End-Develop-Guide/issues/2)
-
-中文 Developer 社区列表 | 地址
------ | -----
-[领略前端技术 阅读奇舞周刊](http://www.75team.com/weekly/)|<http://www.75team.com/weekly/>
-[div.io](http://div.io/#/welcome) | <http://div.io/#/welcome>
-[稀土掘金](http://gold.xitu.io) | <http://gold.xitu.io>
-[开发者头条](http://toutiao.io/) | <http://toutiao.io/>
-[码农周刊](http://weekly.manong.io/) | <http://weekly.manong.io/>
-[InfoQ](http://www.infoq.com/cn/) | <http://www.infoq.com/cn/>
-[Segmentfault](http://segmentfault.com/) | <http://segmentfault.com/>
-[Get社区](http://get.jobdeer.com/) | <http://get.jobdeer.com/>
-[极客头条](http://geek.csdn.net/hotest) | <http://geek.csdn.net/hotest>
-[极客头条－前端](http://geek.csdn.net/forum/47) | <http://geek.csdn.net/forum/47>
-
-## <a id="fed_jishu_share"></a> 技术分享会议
-
-说明：技术分享会议引用了[ufologist](https://github.com/ufologist)项目中的收集，与自己收集的资源整理而成。
-
-会议组织列表 | 地址
----- | ----
-[D2前端技术论坛](http://www.d2forum.org/) | <http://www.d2forum.org/>
-[WebReBuild](http://webrebuild.org) | <http://webrebuild.org>
-[Velocity](http://velocity.oreilly.com.cn) | <http://velocity.oreilly.com.cn>
-[JSCONF.CN](http://jsconf.cn/) | <http://jsconf.cn/>
-[阿里技术嘉年华](http://adc.taobao.com) | <http://adc.taobao.com>
-[中国CSS开发者大会](http://css.w3ctech.com/) | <http://css.w3ctech.com/>
-[w3ctech](http://www.w3ctech.com/event) | <http://www.w3ctech.com/event>
-[HTML5梦工厂](http://www.html5dw.com/) | <http://www.html5dw.com/>
-[前端圈](http://www.fequan.com/) | <http://www.fequan.com/>
-[QCon北京](http://qconbeijing.com/) | <http://qconbeijing.com/>
-[QCon上海](http://qconshanghai.com/) | <http://qconshanghai.com/>
-[QCon@InfoQ](http://www.infoq.com/cn/qcon) | <http://www.infoq.com/cn/qcon>
-[ArchSummit](http://www.archsummit.com/) | <http://www.archsummit.com/>
-[阿里技术沙龙](http://club.alibabatech.org)| <http://club.alibabatech.org>
-[Apple WWDC](https://developer.apple.com/wwdc/) | <https://developer.apple.com/wwdc/>
-[Google I/O](https://events.google.com/io2015/)|<https://events.google.com/io2015/>
-
 ## <a id="fed_project_kit"></a> Front-End Develop 项目与工具
+
+工欲善其事，必先利其器。开源项目与工具的使用，将极大的提高前端开发之效率。
 
 ### <a id="fed_kit"></a> 相关工具
 
@@ -479,7 +367,159 @@ vim常用的插件：
 * [node-inspector](https://github.com/node-inspector/node-inspector)：nodejs的调试工具；
 * [node-supervisor](https://github.com/petruisfan/node-supervisor)：nodejs用于无需重启的工具
 
-## <a id="fed_datastructure"></a> Front-End 需要了解的数据结构与算法
+## <a id="fed_questions"></a>Front-End Questions
+
+* [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)：面试题集合；
+* [中文前端开发面试题](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions) 中文前端开发面试题
+* [Mars - mobile needs a hero](https://github.com/AlloyTeam/Mars)：腾讯出品的移动端实践；
+* [mobileTech](https://github.com/jtyjty99999/mobileTech)：收集了移动端出现的问题以及解决思路与技巧；
+
+
+## <a id="fed_blog"></a> Front-End Developer Blog
+
+中文 Front-End 开发博客列表，本博客列表会长期维护，如果有推荐的博客，请到此处[提交博客信息](https://github.com/w3crange/Front-End-Develop-Guide/issues/1)
+
+博客地址 | RSS地址
+----- | -----
+[Plane Art](http://www.planeart.cn) | <http://www.planeart.cn/?feed=rss2>
+[王玮的博客](http://imvirgo.com) | <http://imvirgo.com/feed/>
+[UED TEAM](http://www.ued163.com) | <http://www.ued163.com/?feed=rss2>
+[随网之舞](http://dancewithnet.com) | <http://feeds.feedburner.com/dancewithnet>
+[不名一格](http://www.microidc.com) | <http://www.microidc.com/feed/>
+[Hugo Web前端开发](http://www.ghugo.com) | <http://www.ghugo.com/feed/>
+[阿里巴巴（中文站）用户体验设计部博客](http://www.aliued.cn) | <http://www.aliued.cn/feed>
+[何畏](http://www.lzlu.com/blog) | <http://www.lzlu.com/blog/?feed=rss2>
+[PlanABC - 怿飞’s Blog](http://www.planabc.net) | <http://feed.planabc.net/>
+[Designsor](http://www.designsor.com) | <http://www.designsor.com/feed>
+[Time Machine](http://rlog.cn) | <http://rlog.cn/?feed=rss2>
+[为之漫笔](http://blog.cn-cuckoo.com) | <http://www.cn-cuckoo.com/feed>
+[博客园_风流涕淌](http://www.cnblogs.com/Philoo) | <http://www.cnblogs.com/Philoo/rss>
+[彬Go](http://blog.bingo929.com) | <http://blog.bingo929.com/feed>
+[Gracecode.com](http://www.gracecode.com/) | <http://feeds.gracecode.com/gracecode/>
+[Koubei UED](http://ued.koubei.com) | <http://ued.koubei.com/?feed=rss2>
+[Alibaba.com UED](http://www.aliued.com) | <http://www.aliued.com/feed/>
+[Taobao UED Team](http://ued.taobao.org/blog) | <http://ued.taobao.com/blog/feed/>
+[博客园-振之博文](http://www.cnblogs.com/zhenn/rss) | <http://www.cnblogs.com/zhenn/>
+[Kejun's Blog](http://hikejun.com/blog) | <http://hikejun.com/blog/?feed=rss2>
+[博客园_纸头折飞机](http://www.cnblogs.com/xueduanyang/) | <http://www.cnblogs.com/xueduanyang/rss>
+[最前端的生活](http://www.bq69.com/) | <http://www.bq69.com/feed>
+[腾讯CDC](http://cdc.tencent.com) | <http://cdc.tencent.com/?feed=rss2>
+[博客园_叶小钗](http://www.cnblogs.com/yexiaochai/) | <http://www.cnblogs.com/yexiaochai/rss>
+[Hua's View](http://huaview.com) | <http://huaview.com/feed>
+[RainBlog-烟雨空间](http://rain520.net/) | <http://rain520.net/Feed/rss.xml>
+[web前端开发工程师的随记--黑妞haha](http://www.heiniuhaha.cn/blog) | <http://www.heiniuhaha.cn/blog/?feed=rss2>
+[蓝色理想](http://www.blueidea.com) | <http://www.blueidea.com/common/rss.asp>
+[博客园_Ruby's Louvre](http://www.cnblogs.com/rubylouvre/) | <http://www.cnblogs.com/rubylouvre/rss>
+[hax的技术部落格](http://hax.iteye.com)|<http://hax.javaeye.com/rss>
+[CssRain-前端技术](http://www.cssrain.cn/) | <http://www.cssrain.cn/?feed=rss2>
+[MED](http://ued.alimama.com) | <http://ued.alimama.com/feed/>
+[W3CPLUS](http://www.w3cplus.com) | <http://feed.feedsky.com/W3CPlus>
+[博客园_winter-cn](http://www.cnblogs.com/winter-cn/rss) | <http://www.cnblogs.com/winter-cn/>
+[走走停停看看](http://shawphy.com) | <http://shawphy.com/feed>
+[Hi, I'm Adam Lu.](http://adamlu.com) | <http://adamlu.com/?feed=rss2>
+[WEB前端开发](http://www.css88.com) | <http://www.css88.com/feed>
+[岁月如歌](https://lifesinger.wordpress.com) | <http://lifesinger.wordpress.com/feed/>
+[Web开发中需要了解的东西](http://coolshell.cn) | <http://coolshell.cn/feed>
+[样式之美](http://www.aoao.org.cn) | <http://feeds2.feedburner.com/aoao>
+[時計坂一刻館三号室](http://www.quchao.com/) | <http://feed.quchao.com/>
+[CSS森林(CSS Forest)](http://www.cssforest.org/blog/) | <http://www.cssforest.org/blog/index.php?atom=1>
+[Ross Wan's World!](https://mrwlwan.wordpress.com) | <http://mrwlwan.wordpress.com/feed/>
+[博客园_汤姆大叔的博客](http://www.cnblogs.com/TomXu/) | <http://www.cnblogs.com/TomXu/rss>
+[前端观察](http://www.qianduan.net/) | <http://www.qianduan.net/feed>
+
+## <a id="fed_community"></a> 通用Developer 社区
+
+在Github上找到一个社区网站收集的项目-- [front-end-collect](https://github.com/foru17/front-end-collect)
+
+中文 Developer 社区列表，本社区列表会长期维护，如果有推荐的社区，请到此处[提交社区信息](https://github.com/w3crange/Front-End-Develop-Guide/issues/2)
+
+中文 Developer 社区列表 | 地址
+----- | -----
+[领略前端技术 阅读奇舞周刊](http://www.75team.com/weekly/)|<http://www.75team.com/weekly/>
+[div.io](http://div.io/#/welcome) | <http://div.io/#/welcome>
+[稀土掘金](http://gold.xitu.io) | <http://gold.xitu.io>
+[开发者头条](http://toutiao.io/) | <http://toutiao.io/>
+[码农周刊](http://weekly.manong.io/) | <http://weekly.manong.io/>
+[InfoQ](http://www.infoq.com/cn/) | <http://www.infoq.com/cn/>
+[Segmentfault](http://segmentfault.com/) | <http://segmentfault.com/>
+[Get社区](http://get.jobdeer.com/) | <http://get.jobdeer.com/>
+[极客头条](http://geek.csdn.net/hotest) | <http://geek.csdn.net/hotest>
+[极客头条－前端](http://geek.csdn.net/forum/47) | <http://geek.csdn.net/forum/47>
+
+## <a id="fed_jishu_share"></a> 技术分享会议
+
+说明：技术分享会议引用了[ufologist](https://github.com/ufologist)项目中的收集，与自己收集的资源整理而成。
+
+会议组织列表 | 地址
+---- | ----
+[D2前端技术论坛](http://www.d2forum.org/) | <http://www.d2forum.org/>
+[WebReBuild](http://webrebuild.org) | <http://webrebuild.org>
+[Velocity](http://velocity.oreilly.com.cn) | <http://velocity.oreilly.com.cn>
+[JSCONF.CN](http://jsconf.cn/) | <http://jsconf.cn/>
+[阿里技术嘉年华](http://adc.taobao.com) | <http://adc.taobao.com>
+[中国CSS开发者大会](http://css.w3ctech.com/) | <http://css.w3ctech.com/>
+[w3ctech](http://www.w3ctech.com/event) | <http://www.w3ctech.com/event>
+[HTML5梦工厂](http://www.html5dw.com/) | <http://www.html5dw.com/>
+[前端圈](http://www.fequan.com/) | <http://www.fequan.com/>
+[QCon北京](http://qconbeijing.com/) | <http://qconbeijing.com/>
+[QCon上海](http://qconshanghai.com/) | <http://qconshanghai.com/>
+[QCon@InfoQ](http://www.infoq.com/cn/qcon) | <http://www.infoq.com/cn/qcon>
+[ArchSummit](http://www.archsummit.com/) | <http://www.archsummit.com/>
+[阿里技术沙龙](http://club.alibabatech.org)| <http://club.alibabatech.org>
+[Apple WWDC](https://developer.apple.com/wwdc/) | <https://developer.apple.com/wwdc/>
+[Google I/O](https://events.google.com/io2015/)|<https://events.google.com/io2015/>
+
+
+# <a id="fed_scalable"></a> 延伸可扩展的方向
+
+延伸可扩展的方向是指，脱离了浏览器环境的编程。
+
+#### <a id="fed_nodejs"></a> Node.js
+
+* [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
+* [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
+* [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
+* [express.js 中文文档](http://expressjs.jser.us/)
+* [koa 中文文档](https://github.com/turingou/koa-guide)
+* [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog)
+* [Express框架](http://javascript.ruanyifeng.com/nodejs/express.html)
+* [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
+* [Learn You The Node.js For Much Win! (中文版)](https://www.npmjs.org/package/learnyounode-zh-cn)
+* [Node debug 三法三例](http://i5ting.github.io/node-debug-tutorial/)
+* [nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
+
+#### <a id="fed_mongodb"></a>Mongodb
+
+* [the-little-mongodb-book-cn](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md)
+
+#### <a id="fed_chrome"></a>Chrome扩展开发
+
+* [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
+
+#### <a id="fed_PCAPP"></a>桌面应用程序开发
+
+* [使用node-webkit构建桌面应用程序（一）](http://www.infoq.com/cn/articles/using-node-webkit-to-build-desktop-applications-part1)
+* [使用node-webkit构建桌面应用程序（二）](http://www.infoq.com/cn/articles/using-node-webkit-to-build-desktop-applications-part2)
+* [youdao出品的HEX](http://hex.youdao.com/zh-cn/tutorial/index.html)
+
+#### <a id="fed_mobile"></a>移动应用程序开发
+
+* [ionic中文指南](https://github.com/ychow/ionic-guide)
+* [React Native 中文版](http://wiki.jikexueyuan.com/project/react-native/)
+
+#### <a id="fed_webGL"></a> WebGL
+
+* [WebGL 中文版](http://wiki.jikexueyuan.com/project/webgl/)
+
+#### <a id="fed_v8"></a>v8 引擎文献
+
+可以先通过阅读[V8引擎简介](http://impd.tencent.com/?p=35)来了解JavaScript现在最好的引擎是怎样的，然后访问[Chrome V8](https://developers.google.com/v8/)来获取最新的资料，API文档可以访问[v8-docs](http://izs.me/v8-docs/)。
+
+* [V8 Javascript 引擎设计理念](http://blog.pluskid.org/?p=186)
+* [JavaScript引擎的性能优化](http://velocity.oreilly.com.cn/2013/index.php?func=session&id=27)
+* [V8引擎中的hidden class](https://github.com/BE-FE/Blog/blob/master/blogs/V8%E5%BC%95%E6%93%8E%E4%B8%AD%E7%9A%84hidden%20class.md)
+
+# <a id="fed_datastructure"></a> Front-End 需要了解的数据结构与算法
 
 * [数据结构与算法（JS 版） (@进击的Luke)](https://github.com/LukeLin/data-structure-with-js)
 * [What are the 10 algorithms one must know in order to solve most algorithm problems](http://www.quora.com/What-are-the-10-algorithms-one-must-know-in-order-to-solve-most-algorithm-problems)
@@ -487,7 +527,7 @@ vim常用的插件：
 * [那些少人所知而又有用的数据结构（StackOverflow）](http://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures)
 * [高级数据结构大全](http://isa.unomaha.edu/wp-content/uploads/2012/08/Advanced-Data-structures.pdf)
 
-## <a id="fed_article"></a> Front-End Develop 优秀文章
+# <a id="fed_article"></a> Front-End Develop 优秀文章
 
 说明：文章从《码农周刊》，《奇舞周刊》，以及个人平时阅读收集而来
 
