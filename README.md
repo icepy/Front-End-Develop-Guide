@@ -343,7 +343,7 @@ vim常用的插件：
 * [echarts](https://github.com/ecomfe/echarts)：基于Canvas，纯Javascript图表库，提供直观，生动，可交互，可个性化定制的数据可视化图表。创新的拖拽重计算、数据视图、值域漫游等特性大大增强了用户体验，赋予了用户对数据进行挖掘、整合的能力；
 * [koa](https://github.com/koajs/koa)：下一代编写Web网站的nodejs框架；
 * [vue](https://github.com/yyx990803/vue)：MVVM框架；
-* [underscore](https://github.com/jashkenas/underscore)：JS函数工具库；
+* [underscore](https://github.com/jashkenas/underscore)：JavaScript函数工具库；
 * [backbone](https://github.com/jashkenas/backbone)：Backbone.js为复杂WEB应用程序提供模型(models)、集合(collections)、视图(views)的结构。其中模型用于绑定键值数据和自定义事件；集合附有可枚举函数的丰富API； 视图可以声明事件处理函数，并通过RESRful JSON接口连接到应用程序。
 * [jquery](https://github.com/jquery/jquery)：jQuery 是一个高效、精简并且功能丰富的JavaScript 工具库；
 * [angular.js](https://github.com/angular/angular.js)：AngularJS是为了克服HTML在构建应用上的不足而设计的，通过为开发者呈现一个更高层次的抽象来简化应用的开发。如同其他的抽象技术一样，这也会损失一部分灵活性。换句话说，并不是所有的应用都适合用AngularJS来做。AngularJS主要考虑的是构建CRUD应用。幸运的是，至少90%的WEB应用都是CRUD应用。但是要了解什么适合用AngularJS构建，就得了解什么不适合用AngularJS构建。
@@ -352,6 +352,8 @@ vim常用的插件：
 * [requirejs](https://github.com/jrburke/requirejs)：JavaScript模块化的开山鼻祖；
 * [seajs](https://github.com/seajs/seajs)：中国开发者编写的一个JavaScript模块化库；
 * [d3](https://github.com/mbostock/d3)：基于JavaScript编写的一个图表库，非常强大。
+* [sugar.js](http://sugarjs.com/)：它扩展了现有的JS对象的方法，让你可以用更少的代码做更多的事情；
+* [lo_dash](https://lodash.com/)：JavaScript函数工具库；
 
 ####3. 开放平台
 
