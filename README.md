@@ -428,6 +428,7 @@ vim常用的插件：
 [Ross Wan's World!](https://mrwlwan.wordpress.com) | <http://mrwlwan.wordpress.com/feed/>
 [博客园_汤姆大叔的博客](http://www.cnblogs.com/TomXu/) | <http://www.cnblogs.com/TomXu/rss>
 [前端观察](http://www.qianduan.net/) | <http://www.qianduan.net/feed>
+[张云龙个人博客](https://github.com/fouber/blog) | <https://github.com/fouber/blog>
 
 ## <a id="fed_community"></a> 通用Developer 社区
 
