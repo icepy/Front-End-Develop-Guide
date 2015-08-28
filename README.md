@@ -233,6 +233,10 @@ Atom常用的插件：
 
 * [TypeScript](https://github.com/TypeStrong/atom-typescript)：支持TypeScript编译；
 * [run-in-browser](https://atom.io/packages/run-in-browser)：支持运行网页；
+* [Emmet](https://atom.io/packages/emmet)：快速编写HTML；
+* [minimap](https://atom.io/packages/minimap)：右侧小地图；
+* [color-picker](https://atom.io/packages/color-picker)：CSS颜色取色器；
+* [autoprefixer](https://atom.io/packages/autoprefixer)：自动补全CSS前缀；
 
 vim常用的插件：
 
