@@ -174,6 +174,11 @@ web前端开发可能包括HTML,CSS,JavaScript,Web API,SVG,WebGL,MathML等，语
     * [Ext4.1.0 中文文档](http://extjs-doc-cn.github.io/ext4api/)
 * Meteor
     * [Discover Meteor](http://zh.discovermeteor.com/)
+* TypeScript
+	* [TypeScript 指南](https://github.com/vilic/typescript-guide)
+* requirejs
+	* [RequireJS 中文网](http://requirejs.cn/)
+
 
 ### <a id="javascript_log"></a> JavaScript 日志
 
