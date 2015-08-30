@@ -242,6 +242,11 @@ Atom常用的插件：
 * [minimap](https://atom.io/packages/minimap)：右侧小地图；
 * [color-picker](https://atom.io/packages/color-picker)：CSS颜色取色器；
 * [autoprefixer](https://atom.io/packages/autoprefixer)：自动补全CSS前缀；
+* [autocomplete-paths](https://atom.io/packages/autocomplete-paths)：对路径选择进行增强；
+* [autocomplete-python](https://atom.io/packages/autocomplete-python)：对Python提示进行增强；
+* [docblockr](https://atom.io/packages/docblockr)：编写注释好帮手；
+* [file-icons](https://atom.io/packages/file-icons)：美化编辑器图标；
+* [linter-jshint](https://atom.io/packages/linter-jshint)：JavaScript语法检查；
 
 vim常用的插件：
 
