@@ -231,9 +231,14 @@ Sublime Text常用的插件：
 
 * [Emmet](https://github.com/sergeche/emmet-sublime)：zen coding的升级版，对于前端来说，可是必备插件;
 * [sublimelint](https://github.com/lunixbochs/sublimelint)：用于代码的校验，支持 HTML、CSS、JS、PHP、Java、C++ 等16种语言;
-* [Alignment](https://packagecontrol.io/packages/Alignment)：用于代码对齐;
 * [JsFormat](https://packagecontrol.io/packages/JsFormat)：用于JavaScript格式化;
-* [jQuery](https://packagecontrol.io/packages/jQuery)：jQuery插件;
+* [jQuery](https://packagecontrol.io/packages/jQuery)：jQuery语法提示;
+* [Underscore](https://packagecontrol.io/packages/Underscore.js%20Snippets)：Underscore语法提示;
+* [DocBlockr](https://packagecontrol.io/packages/DocBlockr)：快速编写注释;
+* [SublimeCodeIntel](https://packagecontrol.io/packages/SublimeCodeIntel)：智能语法分析提示;
+* [ColorPicker](https://packagecontrol.io/packages/ColorPicker)：快速选取颜色
+* [HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify)：html/css/js 格式化
+* [Alignment](https://packagecontrol.io/packages/Alignment)：用于代码对齐;
 
 Atom常用的插件：
 
@@ -317,6 +322,24 @@ vim常用的插件：
 ####5. ES6编译
 
 * [babel](https://github.com/babel/babel)
+
+####6. gulp工具
+
+* [gulp-clean](https://www.npmjs.com/package/gulp-clean)：用于清理;
+* [gulp-notify](https://www.npmjs.com/package/gulp-notify)：用于打印消息文本;
+* [gulp-rename](https://www.npmjs.com/package/gulp-rename)：用于修改名字;
+* [gulp-concat](https://www.npmjs.com/package/gulp-concat)：用于合并文件;
+* [gulp-zip](https://www.npmjs.com/package/gulp-zip)：用于生成一个zip压缩包;
+* [gulp-minify-css](https://www.npmjs.com/package/gulp-minify-css)：用于压缩css;
+* [gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer)：用于给css添加前缀;
+* [gulp-imagemin](https://www.npmjs.com/package/gulp-imagemin)：用于给图片进行优化;
+* [gulp-uglify](https://www.npmjs.com/package/gulp-uglify)：用于压缩js;
+* [amd-optimize](https://www.npmjs.com/package/amd-optimize)：用于AMD模块引用编译；
+* [gulp-import-css](https://www.npmjs.com/package/gulp-import-css)：如果css文件是通过import导入的可以使用此插件进行合并优化;
+* [gulp-rev-replace](https://www.npmjs.com/package/gulp-rev-replace)：用于替换;
+* [gulp-useref](https://www.npmjs.com/package/gulp-useref)：引入使用build标记，进行替换;
+* [gulp-rev](https://www.npmjs.com/package/gulp-rev)：生成md5文件名;
+* [gulp-filter](https://www.npmjs.com/package/gulp-filter)：对文件进行过滤;
 
 ### <a id="fed_opensource"></a> Front-End Develop 开源项目
 
