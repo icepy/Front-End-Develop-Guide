@@ -46,7 +46,7 @@ GitHub：[w3crange/Front-End-Develop-Guide](https://github.com/w3crange/Front-En
 	* [Front-End Questions](#fed_questions)
 	* [Front-End 需要了解的数据结构与算法](#fed_datastructure)
 	* [Front-End Develop 优秀文章](#fed_article)
-* [当前年重点推荐－2015](#fed_point_recommend)
+* [2015年重点推荐](#fed_point_recommend)
 * [往年重点推荐集合](#fed_point_set)
 * [延伸可扩展的方向](#fed_scalable)
 	* [Node.js](#fed_nodejs)
