@@ -4,7 +4,7 @@
 
 由[@icepy](http://weibo.com/2455876310)负责整理
 
-###教程类
+### 教程类
 
 零基础的同学非常适合在学JavaScript之前阅读它：[重新介绍 JavaScript（JS 教程）](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)，然后接着阅读[消除一些经常被误解的概念](http://bolinfest.com/javascript/misunderstood.html)。
 
@@ -18,10 +18,25 @@
 
 编程风格指南推荐：[Airbnb JavaScript Style Guide](https://github.com/yuche/javascript)
 
-###ES6 前瞻
+### ES6 前瞻
 
 个人认为是时候开始学习了，可以先了解一下有哪些特性，[Essential EcmaScript 6](http://blog.oyanglul.us/javascript/essential-ecmascript6.html)
 
 * [ECMAScript 6入门](http://es6.ruanyifeng.com/)
 * [ECMAScript 6 Features 中文版](https://github.com/ES-CN/es6features/blob/master/README.md)
 * [ECMAScript 6 Tools](https://github.com/addyosmani/es6-tools)
+
+### 深入浅出ES6系列
+
+* [深入浅出ES6（一）：ES6是什么](http://www.infoq.com/cn/articles/es6-in-depth-an-introduction)
+* [深入浅出ES6（二）：迭代器和for-of循环](http://www.infoq.com/cn/articles/es6-in-depth-iterators-and-the-for-of-loop)
+* [深入浅出ES6（三）：生成器 Generators](http://www.infoq.com/cn/articles/es6-in-depth-generators)
+* [深入浅出ES6（四）：模板字符串](http://www.infoq.com/cn/articles/es6-in-depth-template-string)
+* [深入浅出ES6（五）：不定参数和默认参数](http://www.infoq.com/cn/articles/es6-in-depth-rest-parameters-and-defaults)
+* [深入浅出ES6（六）：解构 Destructuring](http://www.infoq.com/cn/articles/es6-in-depth-destructuring)
+* [深入浅出ES6（七）：箭头函数 Arrow Functions](http://www.infoq.com/cn/articles/es6-in-depth-arrow-functions)
+* [深入浅出ES6（八）：Symbols](http://www.infoq.com/cn/articles/es6-in-depth-symbols)
+* [学习Babel和Broccoli，马上就用ES6](http://www.infoq.com/cn/articles/es6-in-depth-babel-and-broccoli)
+* [深入浅出ES6（十）：集合](http://www.infoq.com/cn/articles/es6-in-depth-collections?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=articles_link&utm_content=link_text)
+* [深入浅出ES6（十一）：生成器 Generators，续篇](http://www.infoq.com/cn/articles/es6-in-depth-generators-continued)
+* [深入浅出ES6（十二）：代理 Proxies](http://www.infoq.com/cn/articles/es6-in-depth-proxies-and-reflect)
