@@ -8,8 +8,6 @@ GitHub：[w3crange/Front-End-Develop-Guide](https://github.com/w3crange/Front-En
 
 由[@icepy](http://weibo.com/2455876310)负责整理
 
-欢迎大家加入**一起来学JS（HN）QQ群：347349470**，加入后还请修改备注为，所在地-昵称。
-
 主要讨论：前端范围内的技术，HTML CSS JavaScript使用技巧，浏览器开发工具使用讨论，iOS Android等Mobile App使用的技术，一起来学习，共同进步。
 
 让web前端，JS开发在湖南可以成为大家热爱的工作与成熟的产业。
