@@ -38,9 +38,8 @@ GitHub：[Front-End-Developers-Hunan/Front-End-Develop-Guide](https://github.com
 	* [Front-End Questions](#fed_questions)
 	* [Front-End 需要了解的数据结构与算法](#fed_datastructure)
 	* [Front-End Develop 优秀文章](#fed_article)
-* [2015年重点推荐](#fed_point_recommend)
-* [往年重点推荐集合](#fed_point_set)
 * [延伸可扩展的方向](#fed_scalable)
+	* [React && React-Native](#fed_point_recommend)
 	* [Node.js](#fed_nodejs)
 	* [Mongodb](#fed_mongodb)
 	* [WebGL](#fed_webGL)
@@ -169,6 +168,8 @@ web前端开发可能包括HTML,CSS,JavaScript,Web API,SVG,WebGL,MathML等，语
 	* [TypeScript 指南](https://github.com/vilic/typescript-guide)
 * requirejs
 	* [RequireJS 中文网](http://requirejs.cn/)
+* vue.js
+	* [vue 官方网站](http://cn.vuejs.org/)
 
 
 ### <a id="javascript_log"></a> JavaScript 日志
@@ -204,6 +205,47 @@ cache是提高应用性能重要的一个环节，必需要有所了解。
 * [Grunt JavaScript世界的构建工具](http://www.gruntjs.net/)
 * [Gulp 用自动化构建工具增强你的工作流](http://www.gulpjs.com.cn/)
 * [Webpack](https://github.com/webpack/webpack)
+
+### <a id="fed_point_recommend"></a> React && React-Native
+
+2015年学习的重点推荐是：React.js&React Native，阅读[介绍](http://www.infoq.com/cn/articles/subversion-front-end-ui-development-framework-react?utm_source=infoq&utm_medium=related_content_link&utm_campaign=relatedContent_articles_clk)，明白它是什么。
+
+##### 入门理解
+
+* [React的设计哲学 - 简单之美](http://www.infoq.com/cn/articles/react-art-of-simplity)
+* [React Native探索：背景、规划和风险](http://www.infoq.com/cn/articles/react-native-overview)
+* [一个“三端”开发者眼中的React Native](http://f2e.souche.com/blog/-ge-san-duan-kai-fa-zhe-yan-zhong-de-react-native/)
+
+##### 文档类查阅
+  
+* [React.js 中文文档](http://reactjs.cn/)
+* [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
+* [React Native](http://wiki.jikexueyuan.com/project/react-native/)
+* [awesome-react-native](https://github.com/jondot/awesome-react-native)
+* [react-native-guide](https://github.com/ele828/react-native-guide)
+
+##### 深入阅读
+
+* [React Native探索（二）：布局篇](http://www.infoq.com/cn/articles/react-native-layout)
+* [React Native探索（三）：与 react-web 的融合](http://www.infoq.com/cn/articles/react-native-web)
+* [React Native 中组件的生命周期](http://www.race604.com/react-native-component-lifecycle/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [谈谈 React.js 的核心入门知识](http://gold.xitu.io/entry/55caa1db60b27cc249350218/view)
+* [深入浅出React（二）：React开发神器Webpack](http://www.infoq.com/cn/articles/react-and-webpack)
+* [深入浅出React（三）：理解JSX和组件](http://www.infoq.com/cn/articles/react-jsx-and-component)
+* [深入浅出React（四）：虚拟DOM Diff算法解析](http://www.infoq.com/cn/articles/react-dom-diff)
+* [Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+* [Flex 布局教程：实例篇](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html)
+
+##### For iOS
+
+* [React Native通信机制详解](http://blog.cnbang.net/tech/2698/)
+
+##### For Android    
+
+* [学习 React Native for Android：环境搭建](http://hahack.com/codes/learn-react-native-for-android-01/?from=timeline&isappinstalled=0#rd)
+* [React Native For Android初体验](http://www.jianshu.com/p/847a54e0c385)
+* [React Native: Android 的打包](http://www.liaohuqiu.net/cn/posts/react-native-android-package/)
+* [React Native For Android 架构初探](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=207782506&idx=1&sn=3ff6b03c0d59fbda406f64739d9272cf)
 
 ## <a id="fed_project_kit"></a> Front-End Develop 项目与工具
 
@@ -330,6 +372,9 @@ vim常用的插件：
 * [gulp-useref](https://www.npmjs.com/package/gulp-useref)：引入使用build标记，进行替换;
 * [gulp-rev](https://www.npmjs.com/package/gulp-rev)：生成md5文件名;
 * [gulp-filter](https://www.npmjs.com/package/gulp-filter)：对文件进行过滤;
+* [gulp-header](https://npmjs.org/package/gulp-header/)：压缩之后将注释写入到文件的头部
+* [gulp-if](https://www.npmjs.com/package/gulp-if)：进行逻辑判断
+* [gulp-size](https://www.npmjs.com/package/gulp-size)：获取文件大小
 
 ### <a id="fed_opensource"></a> Front-End Develop 开源项目
 
@@ -419,53 +464,6 @@ vim常用的插件：
 ## <a id="fed_article"></a> Front-End Develop 优秀文章集合
 
 * [从码农周刊抓取的Front-End Develop 优秀文章集合](https://github.com/w3crange/Front-End-Develop-Guide/blob/master/Articles.md)
-
-## <a id="fed_point_recommend"></a> 2015年重点推荐
-
-2015年学习的重点推荐是：React.js&React Native，阅读[介绍](http://www.infoq.com/cn/articles/subversion-front-end-ui-development-framework-react?utm_source=infoq&utm_medium=related_content_link&utm_campaign=relatedContent_articles_clk)，明白它是什么。
-
-#### 入门理解
-
-* [React的设计哲学 - 简单之美](http://www.infoq.com/cn/articles/react-art-of-simplity)
-* [React Native探索：背景、规划和风险](http://www.infoq.com/cn/articles/react-native-overview)
-* [一个“三端”开发者眼中的React Native](http://f2e.souche.com/blog/-ge-san-duan-kai-fa-zhe-yan-zhong-de-react-native/)
-
-#### 文档类查阅
-  
-* [React.js 中文文档](http://reactjs.cn/)
-* [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
-* [React Native](http://wiki.jikexueyuan.com/project/react-native/)
-* [awesome-react-native](https://github.com/jondot/awesome-react-native)
-* [react-native-guide](https://github.com/ele828/react-native-guide)
-
-#### 深入阅读
-
-* [React Native探索（二）：布局篇](http://www.infoq.com/cn/articles/react-native-layout)
-* [React Native探索（三）：与 react-web 的融合](http://www.infoq.com/cn/articles/react-native-web)
-* [React Native 中组件的生命周期](http://www.race604.com/react-native-component-lifecycle/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-* [谈谈 React.js 的核心入门知识](http://gold.xitu.io/entry/55caa1db60b27cc249350218/view)
-* [深入浅出React（二）：React开发神器Webpack](http://www.infoq.com/cn/articles/react-and-webpack)
-* [深入浅出React（三）：理解JSX和组件](http://www.infoq.com/cn/articles/react-jsx-and-component)
-* [深入浅出React（四）：虚拟DOM Diff算法解析](http://www.infoq.com/cn/articles/react-dom-diff)
-* [Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
-* [Flex 布局教程：实例篇](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html)
-
-#### For iOS
-
-* [React Native通信机制详解](http://blog.cnbang.net/tech/2698/)
-
-#### For Android    
-
-* [学习 React Native for Android：环境搭建](http://hahack.com/codes/learn-react-native-for-android-01/?from=timeline&isappinstalled=0#rd)
-* [React Native For Android初体验](http://www.jianshu.com/p/847a54e0c385)
-* [React Native: Android 的打包](http://www.liaohuqiu.net/cn/posts/react-native-android-package/)
-* [React Native For Android 架构初探](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=207782506&idx=1&sn=3ff6b03c0d59fbda406f64739d9272cf)
-
-## <a id="fed_point_set"></a> 往年重点推荐集合
-
-推荐项目 | 年份 | 推荐原因
------ | ----- | ----
-[React.js&React Native]() | <2015> | 热乎新鲜，用来做原生App是一个不错的选择
 
 ## <a id="fed_scalable"></a> 延伸可扩展的方向
 
