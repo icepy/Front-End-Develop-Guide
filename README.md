@@ -452,6 +452,7 @@ vim常用的插件：
 * [中文前端开发面试题](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions) 中文前端开发面试题
 * [Mars - mobile needs a hero](https://github.com/AlloyTeam/Mars)：腾讯出品的移动端实践；
 * [mobileTech](https://github.com/jtyjty99999/mobileTech)：收集了移动端出现的问题以及解决思路与技巧；
+* [移动web资源整理](http://www.cnblogs.com/PeunZhang/p/3407453.html)：移动web资源整理；
 
 ## <a id="fed_datastructure"></a> Front-End 需要了解的数据结构与算法
 
