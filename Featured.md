@@ -13,6 +13,7 @@
 [fullPage.js](https://github.com/alvarotrigo/fullPage.js) | [alvarotrigo](https://github.com/alvarotrigo)| fullPage.js 是一个基于 jQuery 的插件，它能够很方便、很轻松的制作出全屏网站；
 [AngularUI Router](https://github.com/angular-ui/ui-router) | [AngularUI](https://github.com/angular-ui) | angular-ui-router是AngularJS的路由框架，和默认的$route不同，它将所有路由包装成可划分层级的状态机状态,路由路径在ui-router中不是必须的。由于ui-router的路由状态机是分层级的，所以使用ui-router可以非常方便地创建包含多个嵌入的子模板；
 [React](https://github.com/facebook/react) | [Facebook](https://github.com/facebook)| 这是该公司用于构建反应式图形界面的JavaScript库;
+[react-redux](https://github.com/rackt/react-redux) | [rackt](https://github.com/rackt) | Flux架构实现
 [TSD](https://github.com/DefinitelyTyped/tsd) | [DefinitelyTyped](https://github.com/DefinitelyTyped)| 在TypeScript中替换第三方库所使用的引用文件;
 [TypeScript](https://github.com/Microsoft/TypeScript) | [Microsoft](https://github.com/Microsoft)| JavaScript的超集，扩展了类型，类，接口等语法，兼容ES6；
 [Commander.js](https://github.com/tj/commander.js) | [tj](https://github.com/tj)| 可以帮助快速开发Nodejs命令行工具的一个包
