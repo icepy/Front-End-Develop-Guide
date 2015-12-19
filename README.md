@@ -99,7 +99,7 @@ web前端开发可能包括HTML,CSS,JavaScript,Web API,SVG,WebGL,MathML等，语
 * [Sass基础知识](http://sass-lang.com/guide)：Sass官网，讲述Sass/SCSS应用的基础知识，变量、函数、条件、循环、宏等等；
 * [Sass中文网](http://www.sasschina.com/)：中文大，给E文不好的小朋友们；
 * [Sass Guidelines](http://sass-guidelin.es/zh/)：这是由Sass专家[Hugo Giraudel](http://hugogiraudel.com/)撰写的一份“编写稳健、可维护和可扩展的Sass”的指南，这份指南已被翻译成中文；
-* [Sass meister](http://sassmeister.com/)：在线Sass/SCSS调试器；
+* [Sass meister](http://www.sassmeister.com/)：在线Sass/SCSS调试器；
 
 ### <a id="javascript_doc"></a> JavaScript 文档
 ===
@@ -185,7 +185,7 @@ web前端开发可能包括HTML,CSS,JavaScript,Web API,SVG,WebGL,MathML等，语
 下面两篇文章不会对 HTTP 的细节进行深究，而是从够高和更结构化的角度将 HTTP 协议的元素进行分类讲解，可以先阅读[HTTP 协议漫谈](http://blog.jobbole.com/88199/)和[图解Http协议](http://www.bysocket.com/?p=282)来对HTTP有一个大概的了解。
 
 * [HTTP协议](http://www.cnblogs.com/TankXiao/category/415412.html)
-* [HTTP/2协议的背景、内容、实现和未来](http://ye11ow.gitbooks.io/http2-explained/content/)
+* [HTTP/2协议的背景、内容、实现和未来](https://ye11ow.gitbooks.io/http2-explained/content/)
 * [HTTP 下午茶](http://happypeter.github.io/tealeaf-http/#chinese)
 * [HTTP接口设计指南](https://github.com/bolasblack/http-api-guide)
 * [白话 HTTPS & SSL/TSL](http://www.jianshu.com/p/992bad24412e)：你肯定能阅读明白。
@@ -343,7 +343,7 @@ vim常用的插件：
 * [iTerm 2](http://www.iterm2.com/index.html)：OS X上一个增强版的shell终端；
 * [oh-my-zsh](http://ohmyz.sh/)：OS X上用来增强shell命令行的工具；
 * [Dash](https://kapeli.com/dash)：Dash is an API Documentation Browser and Code Snippet Manager. Dash stores snippets of code and instantly searches offline documentation sets for 150+ APIs (for a full list, see below). You can even generate your own docsets or request docsets to be included；
-* [tmux](http://aquaregia.gitbooks.io/tmux-productive-mouse-free-development_zh/content/index.html)：终端复用神器，帮助在Mac或者Linux上做开发的程序员在使用终端时更加得心应手；
+* [tmux](https://aquaregia.gitbooks.io/tmux-productive-mouse-free-development_zh/content/index.html)：终端复用神器，帮助在Mac或者Linux上做开发的程序员在使用终端时更加得心应手；
 * [MacVim](https://github.com/b4winckler/macvim)：Mac下GUI vim编辑器；
 * [Xcode](https://developer.apple.com/xcode/downloads/)：也许你用不上，安装Xcode主要是为了Xcode command line tools工具包，你也可以选择不安装Xcode，使用xcode-select --install跳过Xcode的安装；
 
@@ -372,7 +372,7 @@ vim常用的插件：
 * [gulp-useref](https://www.npmjs.com/package/gulp-useref)：引入使用build标记，进行替换;
 * [gulp-rev](https://www.npmjs.com/package/gulp-rev)：生成md5文件名;
 * [gulp-filter](https://www.npmjs.com/package/gulp-filter)：对文件进行过滤;
-* [gulp-header](https://npmjs.org/package/gulp-header/)：压缩之后将注释写入到文件的头部
+* [gulp-header](https://www.npmjs.com/package/gulp-header/)：压缩之后将注释写入到文件的头部
 * [gulp-if](https://www.npmjs.com/package/gulp-if)：进行逻辑判断
 * [gulp-size](https://www.npmjs.com/package/gulp-size)：获取文件大小
 
@@ -419,7 +419,7 @@ vim常用的插件：
 * [async](https://github.com/caolan/async)：JS实现的一个方便快捷异步编程的库；
 * [echarts](https://github.com/ecomfe/echarts)：基于Canvas，纯Javascript图表库，提供直观，生动，可交互，可个性化定制的数据可视化图表。创新的拖拽重计算、数据视图、值域漫游等特性大大增强了用户体验，赋予了用户对数据进行挖掘、整合的能力；
 * [koa](https://github.com/koajs/koa)：下一代编写Web网站的nodejs框架；
-* [vue](https://github.com/yyx990803/vue)：MVVM框架；
+* [vue](https://github.com/vuejs/vue)：MVVM框架；
 * [underscore](https://github.com/jashkenas/underscore)：JavaScript函数工具库；
 * [backbone](https://github.com/jashkenas/backbone)：Backbone.js为复杂WEB应用程序提供模型(models)、集合(collections)、视图(views)的结构。其中模型用于绑定键值数据和自定义事件；集合附有可枚举函数的丰富API； 视图可以声明事件处理函数，并通过RESRful JSON接口连接到应用程序。
 * [jquery](https://github.com/jquery/jquery)：jQuery 是一个高效、精简并且功能丰富的JavaScript 工具库；
@@ -439,7 +439,7 @@ vim常用的插件：
 
 ####4. 开源web网站系统
 
-* [candy](https://github.com/turingou/candy)：基于多说社交评论的社会化论坛系统，采用 Node.js/Mongodb 构建；
+* [candy](https://github.com/guo-yu/candy)：基于多说社交评论的社会化论坛系统，采用 Node.js/Mongodb 构建；
 
 ####5. 调试工具
 
@@ -476,11 +476,11 @@ vim常用的插件：
 * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
 * [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
 * [express.js 中文文档](http://expressjs.jser.us/)
-* [koa 中文文档](https://github.com/turingou/koa-guide)
+* [koa 中文文档](https://github.com/guo-yu/koa-guide)
 * [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog)
 * [Express框架](http://javascript.ruanyifeng.com/nodejs/express.html)
 * [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
-* [Learn You The Node.js For Much Win! (中文版)](https://www.npmjs.org/package/learnyounode-zh-cn)
+* [Learn You The Node.js For Much Win! (中文版)](https://www.npmjs.com/package/learnyounode-zh-cn)
 * [Node debug 三法三例](http://i5ting.github.io/node-debug-tutorial/)
 * [nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
 
@@ -513,12 +513,12 @@ vim常用的插件：
 可以先通过阅读[V8引擎简介](http://impd.tencent.com/?p=35)来了解JavaScript现在最好的引擎是怎样的，然后访问[Chrome V8](https://developers.google.com/v8/)来获取最新的资料，API文档可以访问[v8-docs](http://izs.me/v8-docs/)。
 
 * [V8 Javascript 引擎设计理念](http://blog.pluskid.org/?p=186)
-* [JavaScript引擎的性能优化](http://velocity.oreilly.com.cn/2013/index.php?func=session&id=27)
+* [JavaScript引擎的性能优化](http://velocity.oreilly.com.cn/2015//2013/index.php?func=session&id=27)
 * [V8引擎中的hidden class](https://github.com/BE-FE/Blog/blob/master/blogs/V8%E5%BC%95%E6%93%8E%E4%B8%AD%E7%9A%84hidden%20class.md)
 
 ## <a id="fed_blog"></a> Front-End Developer Blog
 
-中文 Front-End 开发博客列表，本博客列表会长期维护，如果有推荐的博客，请到此处[提交博客信息](https://github.com/w3crange/Front-End-Develop-Guide/issues/1)
+中文 Front-End 开发博客列表，本博客列表会长期维护，如果有推荐的博客，请到此处[提交博客信息](https://github.com/icepy/Front-End-Develop-Guide/issues/1)
 
 博客地址 | RSS地址
 ----- | -----
@@ -539,9 +539,9 @@ vim常用的插件：
 [Gracecode.com](http://www.gracecode.com/) | <http://feeds.gracecode.com/gracecode/>
 [Koubei UED](http://ued.koubei.com) | <http://ued.koubei.com/?feed=rss2>
 [Alibaba.com UED](http://www.aliued.com) | <http://www.aliued.com/feed/>
-[Taobao UED Team](http://ued.taobao.org/blog) | <http://ued.taobao.com/blog/feed/>
+[Taobao UED Team](http://ued.taobao.org/blog/) | <http://ued.taobao.com/blog/feed/>
 [博客园-振之博文](http://www.cnblogs.com/zhenn/rss) | <http://www.cnblogs.com/zhenn/>
-[Kejun's Blog](http://hikejun.com/blog) | <http://hikejun.com/blog/?feed=rss2>
+[Kejun's Blog](http://hikejun.com/blog/) | <http://hikejun.com/blog/feed/>
 [博客园_纸头折飞机](http://www.cnblogs.com/xueduanyang/) | <http://www.cnblogs.com/xueduanyang/rss>
 [最前端的生活](http://www.bq69.com/) | <http://www.bq69.com/feed>
 [腾讯CDC](http://cdc.tencent.com) | <http://cdc.tencent.com/?feed=rss2>
@@ -553,27 +553,27 @@ vim常用的插件：
 [博客园_Ruby's Louvre](http://www.cnblogs.com/rubylouvre/) | <http://www.cnblogs.com/rubylouvre/rss>
 [hax的技术部落格](http://hax.iteye.com)|<http://hax.javaeye.com/rss>
 [CssRain-前端技术](http://www.cssrain.cn/) | <http://www.cssrain.cn/?feed=rss2>
-[MED](http://ued.alimama.com) | <http://ued.alimama.com/feed/>
+[MED](http://mux.alimama.com/) | <http://mux.alimama.com/feed/>
 [W3CPLUS](http://www.w3cplus.com) | <http://feed.feedsky.com/W3CPlus>
 [博客园_winter-cn](http://www.cnblogs.com/winter-cn/rss) | <http://www.cnblogs.com/winter-cn/>
 [走走停停看看](http://shawphy.com) | <http://shawphy.com/feed>
 [Hi, I'm Adam Lu.](http://adamlu.com) | <http://adamlu.com/?feed=rss2>
 [WEB前端开发](http://www.css88.com) | <http://www.css88.com/feed>
-[岁月如歌](https://lifesinger.wordpress.com) | <http://lifesinger.wordpress.com/feed/>
+[岁月如歌](https://lifesinger.wordpress.com) | <https://lifesinger.wordpress.com/feed/>
 [Web开发中需要了解的东西](http://coolshell.cn) | <http://coolshell.cn/feed>
 [样式之美](http://www.aoao.org.cn) | <http://feeds2.feedburner.com/aoao>
-[時計坂一刻館三号室](http://www.quchao.com/) | <http://feed.quchao.com/>
+[時計坂一刻館三号室](https://quchao.com/) | <http://feed.quchao.com/>
 [CSS森林(CSS Forest)](http://www.cssforest.org/blog/) | <http://www.cssforest.org/blog/index.php?atom=1>
-[Ross Wan's World!](https://mrwlwan.wordpress.com) | <http://mrwlwan.wordpress.com/feed/>
+[Ross Wan's World!](https://mrwlwan.wordpress.com) | <https://mrwlwan.wordpress.com/feed/>
 [博客园_汤姆大叔的博客](http://www.cnblogs.com/TomXu/) | <http://www.cnblogs.com/TomXu/rss>
-[前端观察](http://www.qianduan.net/) | <http://www.qianduan.net/feed>
+[前端观察](https://www.qianduan.net/) | <https://www.qianduan.net/rss/>
 [张云龙个人博客](https://github.com/fouber/blog) | <https://github.com/fouber/blog>
 
 ## <a id="fed_community"></a> 通用Developer 社区
 
 在Github上找到一个社区网站收集的项目-- [front-end-collect](https://github.com/foru17/front-end-collect)
 
-中文 Developer 社区列表，本社区列表会长期维护，如果有推荐的社区，请到此处[提交社区信息](https://github.com/w3crange/Front-End-Develop-Guide/issues/2)
+中文 Developer 社区列表，本社区列表会长期维护，如果有推荐的社区，请到此处[提交社区信息](https://github.com/icepy/Front-End-Develop-Guide/issues/2)
 
 中文 Developer 社区列表 | 地址
 ----- | -----
@@ -584,7 +584,7 @@ vim常用的插件：
 [码农周刊](http://weekly.manong.io/) | <http://weekly.manong.io/>
 [InfoQ](http://www.infoq.com/cn/) | <http://www.infoq.com/cn/>
 [Segmentfault](http://segmentfault.com/) | <http://segmentfault.com/>
-[Get社区](http://get.jobdeer.com/) | <http://get.jobdeer.com/>
+[Get社区](http://get.ftqq.com/) | <http://get.jobdeer.com/>
 [极客头条](http://geek.csdn.net/hotest) | <http://geek.csdn.net/hotest>
 [极客头条－前端](http://geek.csdn.net/forum/47) | <http://geek.csdn.net/forum/47>
 
