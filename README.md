@@ -22,6 +22,7 @@ GitHub：[icepy/Front-End-Develop-Guide](https://github.com/icepy/Front-End-Deve
 			* [CSS Style Guide](#css_style_guide)
 			* [CSS Language](#css_language)
 			* [Sass Guide](#sass_guide)
+			* [PostCss](#postcss_guide)
 		* [JavaScript 文档](#javascript_doc)
 			* [JavaScript Style Guide](#javascript_style_guide)
 			* [JavaScript Language](#javascript_language)
@@ -32,7 +33,10 @@ GitHub：[icepy/Front-End-Develop-Guide](https://github.com/icepy/Front-End-Deve
 		* [HTTP 文档](#fed_http)
 		* [缓存策略](#fed_cache)
 		* [前端自动化工具](#fed_automate_kit)
-		* [React && React-Native](#fed_point_recommend)
+		* [React&React Native生态-探索学习](#fed_point_recommend)
+		* [移动前端技术](#fed_mobile_jishu)
+		* [动画](#fed_animation)
+		* [性能调优](#fed_xingneng_tiaoyou)
 	* [Front-End Develop 项目与工具](#fed_project_kit)
 		* [相关工具](#fed_kit)
 		* [Front-End Develop 开源项目](#fed_opensource)
@@ -100,6 +104,10 @@ web前端开发可能包括HTML,CSS,JavaScript,Web API,SVG,WebGL,MathML等，语
 * [Sass中文网](http://www.sasschina.com/)：中文大，给E文不好的小朋友们；
 * [Sass Guidelines](http://sass-guidelin.es/zh/)：这是由Sass专家[Hugo Giraudel](http://hugogiraudel.com/)撰写的一份“编写稳健、可维护和可扩展的Sass”的指南，这份指南已被翻译成中文；
 * [Sass meister](http://www.sassmeister.com/)：在线Sass/SCSS调试器；
+
+#### <a id="postcss_guide"></a> PostCss
+
+* [Post Css](https://github.com/postcss/postcss)
 
 ### <a id="javascript_doc"></a> JavaScript 文档
 ===
@@ -206,46 +214,27 @@ cache是提高应用性能重要的一个环节，必需要有所了解。
 * [Gulp 用自动化构建工具增强你的工作流](http://www.gulpjs.com.cn/)
 * [Webpack](https://github.com/webpack/webpack)
 
-### <a id="fed_point_recommend"></a> React && React-Native
+### <a id="fed_point_recommend"></a> React&React Native生态-探索学习
 
-2015年学习的重点推荐是：React.js&React Native，阅读[介绍](http://www.infoq.com/cn/articles/subversion-front-end-ui-development-framework-react?utm_source=infoq&utm_medium=related_content_link&utm_campaign=relatedContent_articles_clk)，明白它是什么。
+* [React&React Native生态-探索学习](https://github.com/icepy/Front-End-Develop-Guide/blob/master/React.md)
 
-##### 入门理解
+### <a id="fed_mobile_jishu"></a> 移动前端技术
 
-* [React的设计哲学 - 简单之美](http://www.infoq.com/cn/articles/react-art-of-simplity)
-* [React Native探索：背景、规划和风险](http://www.infoq.com/cn/articles/react-native-overview)
-* [一个“三端”开发者眼中的React Native](http://f2e.souche.com/blog/-ge-san-duan-kai-fa-zhe-yan-zhong-de-react-native/)
+* [移动端尺寸基础知识](http://colachan.com/post/3435)
+* [移动端高清、多屏适配方案](http://www.html-js.com/article/Mobile-terminal-H5-mobile-terminal-HD-multi-screen-adaptation-scheme%203041)
+* [移动端开发小记 - Flexbox](http://taobaofed.org/blog/2015/11/11/flexbox-in-mobile-web/)
 
-##### 文档类查阅
-  
-* [React.js 中文文档](http://reactjs.cn/)
-* [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
-* [React Native](http://wiki.jikexueyuan.com/project/react-native/)
-* [awesome-react-native](https://github.com/jondot/awesome-react-native)
-* [react-native-guide](https://github.com/ele828/react-native-guide)
+### <a id="fed_animation"></a> 动画
 
-##### 深入阅读
+* [搞定这些疑难杂症，向css3动画说yes](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=400429327&idx=1&sn=e535eac5d3c74e2fb1633d3e8cc0e0ed&scene=4#wechat_redirect)
 
-* [React Native探索（二）：布局篇](http://www.infoq.com/cn/articles/react-native-layout)
-* [React Native探索（三）：与 react-web 的融合](http://www.infoq.com/cn/articles/react-native-web)
-* [React Native 中组件的生命周期](http://www.race604.com/react-native-component-lifecycle/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-* [谈谈 React.js 的核心入门知识](http://gold.xitu.io/entry/55caa1db60b27cc249350218/view)
-* [深入浅出React（二）：React开发神器Webpack](http://www.infoq.com/cn/articles/react-and-webpack)
-* [深入浅出React（三）：理解JSX和组件](http://www.infoq.com/cn/articles/react-jsx-and-component)
-* [深入浅出React（四）：虚拟DOM Diff算法解析](http://www.infoq.com/cn/articles/react-dom-diff)
-* [Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
-* [Flex 布局教程：实例篇](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html)
+### <a id="fed_xingneng_tiaoyou"></a> 性能调优
 
-##### For iOS
-
-* [React Native通信机制详解](http://blog.cnbang.net/tech/2698/)
-
-##### For Android    
-
-* [学习 React Native for Android：环境搭建](http://hahack.com/codes/learn-react-native-for-android-01/?from=timeline&isappinstalled=0#rd)
-* [React Native For Android初体验](http://www.jianshu.com/p/847a54e0c385)
-* [React Native: Android 的打包](http://www.liaohuqiu.net/cn/posts/react-native-android-package/)
-* [React Native For Android 架构初探](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=207782506&idx=1&sn=3ff6b03c0d59fbda406f64739d9272cf)
+* [web移动端性能调优及16ms优化](http://www.ghugo.com/gone-in-60-frames-per-second/)
+* [无线性能优化：域名收敛](http://taobaofed.org/blog/2015/12/16/h5-performance-optimization-and-domain-convergence/)
+* [缓存机制浅析 移动端 Web 加载性能优化](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=402077566&idx=1&sn=def3337205c3aec5e0fde2476ee03397&scene=0&key=ac89cba618d2d976159e30761eefe9953dc2030a7d72c1872c445a8caaa0f1d3cc4eb416a1c7cfb82651db48d11f3f90&ascene=0&uin=MjAyNzY1NTU%3D)
+* [移动端网络优化－同样适用于HTML5页面](http://www.trinea.cn/android/mobile-performance-optimization/)
+* [移动H5前端性能优化指南](http://isux.tencent.com/h5-performance.html)
 
 ## <a id="fed_project_kit"></a> Front-End Develop 项目与工具
 
@@ -470,19 +459,33 @@ vim常用的插件：
 
 延伸可扩展的方向是指，脱离了浏览器环境的编程。
 
+关于编译，强烈建议阅读[工程中的编译原理--Jison入门篇](http://icodeit.org/2015/09/write-a-parser/)
+
 #### <a id="fed_nodejs"></a> Node.js
+
+**入门**
 
 * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
 * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
-* [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
+* [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book)
+* [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
+
+**文档**
+
+* [nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
 * [express.js 中文文档](http://expressjs.jser.us/)
 * [koa 中文文档](https://github.com/guo-yu/koa-guide)
+* [express框架](http://javascript.ruanyifeng.com/nodejs/express.html)
+
+**阅读**
+
 * [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog)
-* [Express框架](http://javascript.ruanyifeng.com/nodejs/express.html)
-* [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
 * [Learn You The Node.js For Much Win! (中文版)](https://www.npmjs.com/package/learnyounode-zh-cn)
 * [Node debug 三法三例](http://i5ting.github.io/node-debug-tutorial/)
-* [nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
+* [深入浅出Nodejs读书笔记](http://tw93.github.io/2015-03-01/shen-ru-qian-chu-nodejs-reading-mind-map.html)
+* [NodeJS的代码调试和性能调优](http://www.barretlee.com/blog/2015/10/07/debug-nodejs-in-command-line/)
+* [在 Node.js 应用中集成 Redis](http://www.ibm.com/developerworks/cn/opensource/os-cn-nodejs-redis/index.html)
+* [Node.js 应用程序的 5 条性能建议](http://zhuanlan.zhihu.com/FrontendMagazine/20432208)
 
 #### <a id="fed_mongodb"></a>Mongodb
 
@@ -515,6 +518,7 @@ vim常用的插件：
 * [V8 Javascript 引擎设计理念](http://blog.pluskid.org/?p=186)
 * [JavaScript引擎的性能优化](http://velocity.oreilly.com.cn/2015//2013/index.php?func=session&id=27)
 * [V8引擎中的hidden class](https://github.com/BE-FE/Blog/blob/master/blogs/V8%E5%BC%95%E6%93%8E%E4%B8%AD%E7%9A%84hidden%20class.md)
+* [JavaScript V8 性能小贴士](http://justjavac.com/javascript/2015/12/14/performance-tips-for-javascript-in-v8.html)
 
 ## <a id="fed_blog"></a> Front-End Developer Blog
 
