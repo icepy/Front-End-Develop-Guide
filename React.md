@@ -45,6 +45,7 @@
 * [Flex 布局教程：实例篇](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html)
 * [ReactNative开发指导](https://github.com/cnsnake11/blog)
 * [使用 LeanCloud 与 React Native 构建原生应用](https://blog.leancloud.cn/3993/)
+* [React-Native With Redux](http://richard-cao.github.io/2016/01/12/React-Native-With-Redux/)
 
 ##### For iOS
 
