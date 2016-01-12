@@ -28,6 +28,8 @@
 
 ### 深入浅出ES6系列
 
+从[InfoQ中文站](http://www.infoq.com/cn/minibooks/ES6-in-Depth)收集而来
+
 * [深入浅出ES6（一）：ES6是什么](http://www.infoq.com/cn/articles/es6-in-depth-an-introduction)
 * [深入浅出ES6（二）：迭代器和for-of循环](http://www.infoq.com/cn/articles/es6-in-depth-iterators-and-the-for-of-loop)
 * [深入浅出ES6（三）：生成器 Generators](http://www.infoq.com/cn/articles/es6-in-depth-generators)
@@ -44,3 +46,4 @@
 * [深入浅出ES6（十四）：let和const](http://www.infoq.com/cn/articles/es6-in-depth-let-and-const)
 * [深入浅出ES6（十五）：子类 Subclassing](http://www.infoq.com/cn/articles/es6-in-depth-subclassing)
 * [深入浅出ES6（十六）：模块 Modules](http://www.infoq.com/cn/articles/es6-in-depth-modules)
+* [深入浅出ES6（十七）：展望未来](http://www.infoq.com/cn/articles/es6-in-depth-the-future)
