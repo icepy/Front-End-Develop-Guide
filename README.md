@@ -12,15 +12,6 @@ GitHub：[icepy/Front-End-Develop-Guide](https://github.com/icepy/Front-End-Deve
 
 <span style="color:lightgray;font-size:12px"></span>
 
-## 【公告】
-
-微信公众号开通于2016年，内容起于前端而不止于前端。讲技术，也分享生活。关注前沿，也注重实际的应用。前端是一个变革的领域，一起探索，一起学习，也一起在这个领域做些好玩的事情。
-
-**关注微信公众号，扫描二维码**
-<div align="center">
-<img src="https://raw.githubusercontent.com/icepy/_posts/master/img/weixin.jpg" alt=""/><br>
-</div>
-
 ##目录
 
 * [Front-End Develop 文档](#fed_doc)
