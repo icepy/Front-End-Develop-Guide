@@ -35,6 +35,9 @@
 * [解密 setState](http://zhuanlan.zhihu.com/purerender/20328570)
 	* [React 0.14：揭秘局部组件状态陷阱](http://zhuanlan.zhihu.com/FrontendMagazine/20416954)
 * [如何架构一个 React 项目](http://www.jointforce.com/jfperiodical/article/1186)
+	* [Flux 架构入门教程](http://www.ruanyifeng.com/blog/2016/01/flux.html)
+	* [Ballade: 重新诠释 Flux 架构](http://stylechen.com/ballade-reinterpreted-flux.html)
+* [React.js 2016最佳实践](http://www.alloyteam.com/2016/01/reactjs-best-practices-for-2016/)
 
 ##### React Native 深入阅读
 
