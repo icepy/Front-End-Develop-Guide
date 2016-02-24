@@ -260,6 +260,10 @@ Sublime Text常用的插件：
 * [ColorPicker](https://packagecontrol.io/packages/ColorPicker)：快速选取颜色
 * [HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify)：html/css/js 格式化
 * [Alignment](https://packagecontrol.io/packages/Alignment)：用于代码对齐;
+* [WakaTime](https://packagecontrol.io/packages/WakaTime)：用于记录编程时间；
+* [Seti_UI](https://packagecontrol.io/packages/Seti_UI)：好看的主题，包括文件icon；
+* [OmniMarkupPreviewer](https://packagecontrol.io/packages/OmniMarkupPreviewer)：将MD文件渲染成网页，可以在浏览器中查看；
+* [Babel](https://packagecontrol.io/packages/Babel)：ES6语法高亮；
 
 Atom常用的插件：
 
@@ -364,6 +368,12 @@ vim常用的插件：
 * [gulp-header](https://www.npmjs.com/package/gulp-header/)：压缩之后将注释写入到文件的头部
 * [gulp-if](https://www.npmjs.com/package/gulp-if)：进行逻辑判断
 * [gulp-size](https://www.npmjs.com/package/gulp-size)：获取文件大小
+
+####7.webpack
+
+* [raw-loader](https://www.npmjs.com/package/raw-loader)：将文件require进来；
+* [url-loader](https://www.npmjs.com/package/url-loader)：可以将图片require进来；
+* [css-loader](https://www.npmjs.com/package/css-loader)：require css文件；
 
 ### <a id="fed_opensource"></a> Front-End Develop 开源项目
 
@@ -486,6 +496,7 @@ vim常用的插件：
 * [NodeJS的代码调试和性能调优](http://www.barretlee.com/blog/2015/10/07/debug-nodejs-in-command-line/)
 * [在 Node.js 应用中集成 Redis](http://www.ibm.com/developerworks/cn/opensource/os-cn-nodejs-redis/index.html)
 * [Node.js 应用程序的 5 条性能建议](http://zhuanlan.zhihu.com/FrontendMagazine/20432208)
+* [国内Nodejs 2015汇总](https://cnodejs.org/topic/5696e43e6272216e51bff67e)
 
 #### <a id="fed_mongodb"></a>Mongodb
 
