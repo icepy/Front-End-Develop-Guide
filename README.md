@@ -537,6 +537,7 @@ vim常用的插件：
 
 博客地址 | RSS地址
 ----- | -----
+[Phodal ](https://www.phodal.com/) | <https://www.phodal.com/>
 [Plane Art](http://www.planeart.cn) | <http://www.planeart.cn/?feed=rss2>
 [王玮的博客](http://imvirgo.com) | <http://imvirgo.com/feed/>
 [UED TEAM](http://www.ued163.com) | <http://www.ued163.com/?feed=rss2>
