@@ -341,6 +341,7 @@ vim常用的插件：
 * [tmux](https://aquaregia.gitbooks.io/tmux-productive-mouse-free-development_zh/content/index.html)：终端复用神器，帮助在Mac或者Linux上做开发的程序员在使用终端时更加得心应手；
 * [MacVim](https://github.com/b4winckler/macvim)：Mac下GUI vim编辑器；
 * [Xcode](https://developer.apple.com/xcode/downloads/)：也许你用不上，安装Xcode主要是为了Xcode command line tools工具包，你也可以选择不安装Xcode，使用xcode-select --install跳过Xcode的安装；
+* [Postman](http://chromecj.com/web-development/2014-09/60.html) Postman是一款功能强大的网页调试与发送网页HTTP请求的Chrome插件。
 
 ####4. VPN
 
