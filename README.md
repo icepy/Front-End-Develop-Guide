@@ -174,6 +174,7 @@ web前端开发可能包括HTML,CSS,JavaScript,Web API,SVG,WebGL,MathML等，语
     * [Discover Meteor](http://zh.discovermeteor.com/)
 * TypeScript
 	* [TypeScript 指南](https://github.com/vilic/typescript-guide)
+	* [TypeScript手册翻译系列](http://my.oschina.net/1pei/blog/515680?fromerr=O3Jow9bO)
 * requirejs
 	* [RequireJS 中文网](http://requirejs.cn/)
 * vue.js
