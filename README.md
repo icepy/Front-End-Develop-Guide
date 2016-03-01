@@ -158,6 +158,8 @@ web前端开发可能包括HTML,CSS,JavaScript,Web API,SVG,WebGL,MathML等，语
     * [AngularJS入门教程](https://github.com/zensh/AngularjsTutorial_cn)
     * [构建自己的AngularJS](https://github.com/xufei/Make-Your-Own-AngularJS/blob/master/01.md)
     * [在Windows环境下用Yeoman构建AngularJS项目](http://www.waylau.com/build-angularjs-app-with-yeoman-in-windows/)
+    * [大型应用下的 AngularJS 性能](http://web.jobbole.com/82060/)
+    * [Angular Modules](http://ngmodules.org/)  可以搜索Angular.JS可用的各种插件，模块等等。
 * Zepto.js
     * [Zepto.js 中文文档](http://mweb.baidu.com/zeptoapi/)
 * Sea.js
@@ -340,6 +342,7 @@ vim常用的插件：
 * [tmux](https://aquaregia.gitbooks.io/tmux-productive-mouse-free-development_zh/content/index.html)：终端复用神器，帮助在Mac或者Linux上做开发的程序员在使用终端时更加得心应手；
 * [MacVim](https://github.com/b4winckler/macvim)：Mac下GUI vim编辑器；
 * [Xcode](https://developer.apple.com/xcode/downloads/)：也许你用不上，安装Xcode主要是为了Xcode command line tools工具包，你也可以选择不安装Xcode，使用xcode-select --install跳过Xcode的安装；
+* [Postman](http://chromecj.com/web-development/2014-09/60.html) Postman是一款功能强大的网页调试与发送网页HTTP请求的Chrome插件。
 
 ####4. VPN
 
