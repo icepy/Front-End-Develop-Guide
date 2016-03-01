@@ -375,6 +375,9 @@ vim常用的插件：
 * [raw-loader](https://www.npmjs.com/package/raw-loader)：将文件require进来；
 * [url-loader](https://www.npmjs.com/package/url-loader)：可以将图片require进来；
 * [css-loader](https://www.npmjs.com/package/css-loader)：require css文件；
+* [eslint-loader](https://www.npmjs.com/package/eslint-loader)：语法检查；
+* [less-loader](https://www.npmjs.com/package/less-loader)：less loader；
+* [extract text plugin for webpack](https://www.npmjs.com/package/extract-text-webpack-plugin)：CSS文件提取；
 
 ### <a id="fed_opensource"></a> Front-End Develop 开源项目
 
