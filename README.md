@@ -159,6 +159,7 @@ web前端开发可能包括HTML,CSS,JavaScript,Web API,SVG,WebGL,MathML等，语
     * [构建自己的AngularJS](https://github.com/xufei/Make-Your-Own-AngularJS/blob/master/01.md)
     * [在Windows环境下用Yeoman构建AngularJS项目](http://www.waylau.com/build-angularjs-app-with-yeoman-in-windows/)
     * [大型应用下的 AngularJS 性能](http://web.jobbole.com/82060/)
+    * [Angular Modules](http://ngmodules.org/)  可以搜索Angular.JS可用的各种插件，模块等等。
 * Zepto.js
     * [Zepto.js 中文文档](http://mweb.baidu.com/zeptoapi/)
 * Sea.js
