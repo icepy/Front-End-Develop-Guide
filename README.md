@@ -610,6 +610,8 @@ vim常用的插件：
 [Get社区](http://get.ftqq.com/) | <http://get.jobdeer.com/>
 [极客头条](http://geek.csdn.net/hotest) | <http://geek.csdn.net/hotest>
 [极客头条－前端](http://geek.csdn.net/forum/47) | <http://geek.csdn.net/forum/47>
+[推酷](http://www.tuicool.com/) | <http://www.tuicool.com/>
+[编程狂人周刊](http://www.tuicool.com/mags) | <http://www.tuicool.com/mags>
 
 ## <a id="fed_jishu_share"></a> 技术分享会议
 
