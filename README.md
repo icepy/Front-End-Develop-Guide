@@ -452,6 +452,8 @@ vim常用的插件：
 * [node-inspector](https://github.com/node-inspector/node-inspector)：nodejs的调试工具；
 * [node-supervisor](https://github.com/petruisfan/node-supervisor)：nodejs用于无需重启的工具
 
+其他工具：[http://123.jser.us/](http://123.jser.us/)
+
 ## <a id="fed_questions"></a>Front-End Questions
 
 * [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)：面试题集合；
