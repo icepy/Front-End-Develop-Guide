@@ -35,6 +35,7 @@ GitHub：[icepy/Front-End-Develop-Guide](https://github.com/icepy/Front-End-Deve
 		* [前端自动化工具](#fed_automate_kit)
 		* [React&React Native生态-探索学习](#fed_point_recommend)
 		* [移动前端技术](#fed_mobile_jishu)
+		* [移动web UI框架](#fed_mobile_lib)
 		* [动画](#fed_animation)
 		* [性能调优](#fed_xingneng_tiaoyou)
 	* [Front-End Develop 项目与工具](#fed_project_kit)
@@ -226,6 +227,12 @@ cache是提高应用性能重要的一个环节，必需要有所了解。
 * [移动端尺寸基础知识](http://colachan.com/post/3435)
 * [移动端高清、多屏适配方案](http://www.html-js.com/article/Mobile-terminal-H5-mobile-terminal-HD-multi-screen-adaptation-scheme%203041)
 * [移动端开发小记 - Flexbox](http://taobaofed.org/blog/2015/11/11/flexbox-in-mobile-web/)
+
+### <a id="fed_mobile_lib"></a> 移动web UI框架
+* [微信的We UI](https://github.com/weui/weui)
+* [淘宝的SUI](http://m.sui.taobao.org/)
+* [百度的GMU](http://gmu.baidu.com/)
+* [豆瓣的CardKit](https://github.com/dexteryy/CardKit)
 
 ### <a id="fed_animation"></a> 动画
 
