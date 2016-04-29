@@ -2,7 +2,7 @@
 
 创建此项目灵感从[SwiftGuide](https://github.com/ipader/SwiftGuide)而来，这份指南汇集了前端开发所使用语言的主流学习资源，并以开发者的视角进行整理编排而成。
 
-GitHub：[icepy/Front-End-Develop-Guide](https://github.com/icepy/Front-End-Develop-Guide) ｜ 网站：[http://front-end-developers-hunan.github.io](http://front-end-developers-hunan.github.io) ｜ _欢迎开发者一起[维护](https://github.com/icepy/Front-End-Develop-Guide/pulls)，或[反馈/投稿](https://github.com/icepy/Front-End-Develop-Guide/issues/new)_
+GitHub：[icepy/Front-End-Develop-Guide](https://github.com/icepy/Front-End-Develop-Guide) ｜欢迎开发者一起[维护](https://github.com/icepy/Front-End-Develop-Guide/pulls)，或[反馈/投稿](https://github.com/icepy/Front-End-Develop-Guide/issues/new)_
 
 > 想了解关于该指南及 前端开发 更多信息的同学，可以阅读短文《[致 Front-End Developers](https://github.com/icepy/Front-End-Develop-Guide/blob/master/2015letter.md)》。 想查看优秀的开源项目，可以访问[《Front-End Develop 项目精选》](https://github.com/icepy/Front-End-Develop-Guide/blob/master/Featured.md)。希望查看精选文章，可以访问[《Front-End Develop 文章精选》](https://github.com/icepy/Front-End-Develop-Guide/blob/master/Featured-Articles.md)。也欢迎企业招聘人才提供工作岗位(請附上薪資)，可以提交到[工作岗位](https://github.com/icepy/Front-End-Develop-Guide/issues/3)。
 
