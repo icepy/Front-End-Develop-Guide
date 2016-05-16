@@ -142,7 +142,6 @@ web前端开发可能包括HTML,CSS,JavaScript,Web API,SVG,WebGL,MathML等，语
 ### <a id="fed_library"></a>了解常用库与框架的使用文档
 
 * jQuery
-	* [jQuery 解构](http://www.cn-cuckoo.com/deconstructed/jquery.html)
 	* [简单易懂的JQuery魔法](http://www.nowamagic.net/librarys/books/contents/jquery)
 	* [How to write jQuery plugin](http://i5ting.github.io/How-to-write-jQuery-plugin/build/jquery.plugin.html)
 * underscore.js
