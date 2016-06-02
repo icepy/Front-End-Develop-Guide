@@ -378,6 +378,11 @@ vim常用的插件：
 * [gulp-header](https://www.npmjs.com/package/gulp-header/)：压缩之后将注释写入到文件的头部
 * [gulp-if](https://www.npmjs.com/package/gulp-if)：进行逻辑判断
 * [gulp-size](https://www.npmjs.com/package/gulp-size)：获取文件大小
+* [gulp-less](https://www.npmjs.com/package/gulp-less)：编译less文件
+* [gulp-sass](https://www.npmjs.com/package/gulp-sass)：编译sass文件
+* [gulp-file-include](https://www.npmjs.com/package/gulp-file-include)：对文件进行引入
+* [gulp-sourcemaps](https://www.npmjs.com/package/gulp-sourcemaps)：生成map文件
+* [gulp-livereload](https://www.npmjs.com/package/gulp-livereload)：自动刷新
 
 ####7.webpack
 
