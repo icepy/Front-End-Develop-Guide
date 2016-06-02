@@ -12,11 +12,12 @@
 * [模板引擎](#template)
 * [模块化](#module)
 * [图表](#charts)
-* [工具](#tools)
 * [界面](#ui)
 * [网络](#network)
 * [异步编程](#async)
 * [数据库操作](#db)
+* [应用环境类工具](#product-tools)
+* [开发环境类工具](#dev-tools)
 * [react 生态圈](#react)
 * [angular 生态圈](#angular)
 
@@ -55,24 +56,6 @@
 [echarts](https://github.com/ecomfe/echarts) | [Baidu EFE team](https://github.com/ecomfe) | 基于Canvas，纯Javascript图表库，提供直观，生动，可交互，可个性化定制的数据可视化图表；
 [d3](https://github.com/mbostock/d3) | [mbostock](https://github.com/mbostock)|基于JavaScript编写的一个图表库，非常强大；
 
-### <a id="tools"></a> 工具
-
-项目 |开发者&组织 | 备注
----- | ---- | ----
-[browserify](https://github.com/substack/node-browserify) | [substack](https://github.com/substack)| browserify是一个node.js模块，主要用于改写现有的CommonJS模块，使得浏览器端也可以使用这些模块；
-[TSD](https://github.com/DefinitelyTyped/tsd) | [DefinitelyTyped](https://github.com/DefinitelyTyped)| 在TypeScript中替换第三方库所使用的引用文件;
-[TypeScript](https://github.com/Microsoft/TypeScript) | [Microsoft](https://github.com/Microsoft)| JavaScript的超集，扩展了类型，类，接口等语法，兼容ES6；
-[Commander.js](https://github.com/tj/commander.js) | [tj](https://github.com/tj)| 可以帮助快速开发Nodejs命令行工具的一个包
-[underscore](https://github.com/jashkenas/underscore) | [jashkenas](https://github.com/jashkenas)| JavaScript函数工具库；
-[lo_dash](https://lodash.com/)| [Lodash Utilities](https://github.com/lodash) | JavaScript函数工具库； 
-[sugar.js](http://sugarjs.com/) | [andrewplummer](https://github.com/andrewplummer) | 它扩展了现有的JS对象的方法，让你可以用更少的代码做更多的事情；
-[JavaScript-MD5](https://github.com/blueimp/JavaScript-MD5) | [blueimp](https://github.com/blueimp/) | JS版的MD5;
-[resumable.js](https://github.com/23/resumable.js) | [23](https://github.com/23)| 这是用于HMLT5 File Api封装可以方便操作文件的一个库；
-[marked](https://github.com/chjj/marked) | [chjj](https://github.com/chjj) | markdown解析器；
-[node-inspector](https://github.com/node-inspector/node-inspector) | [node-inspector](https://github.com/node-inspector) |nodejs的调试工具；
-[node-supervisor](https://github.com/petruisfan/node-supervisor) | [petruisfan](https://github.com/petruisfan) |nodejs用于无需重启的工具
-[candy](https://github.com/guo-yu/candy) | [guo-yu](https://github.com/guo-yu)| 基于多说社交评论的社会化论坛系统，采用 Node.js/Mongodb 构建；
-
 ### <a id="ui"></a> 界面
 
 项目 |开发者&组织 | 备注
@@ -106,6 +89,31 @@
 ---- | ---- | ----
 [node-mongodb-native](https://github.com/mongodb/node-mongodb-native) | [mongodb](https://github.com/mongodb)| nodejs用于操作mongodb；
 
+### <a id="product-tools"></a> 应用环境类工具
+
+项目 |开发者&组织 | 备注
+---- | ---- | ----
+[underscore](https://github.com/jashkenas/underscore) | [jashkenas](https://github.com/jashkenas)| JavaScript函数工具库；
+[lo_dash](https://lodash.com/)| [Lodash Utilities](https://github.com/lodash) | JavaScript函数工具库； 
+[sugar.js](http://sugarjs.com/) | [andrewplummer](https://github.com/andrewplummer) | 它扩展了现有的JS对象的方法，让你可以用更少的代码做更多的事情；
+[JavaScript-MD5](https://github.com/blueimp/JavaScript-MD5) | [blueimp](https://github.com/blueimp/) | JS版的MD5;
+[resumable.js](https://github.com/23/resumable.js) | [23](https://github.com/23)| 这是用于HMLT5 File Api封装可以方便操作文件的一个库；
+[node-memwatch](https://github.com/lloyd/node-memwatch) | [lloyd](https://github.com/lloyd) | 用于检测Node服务内存
+[node-heapdump](https://github.com/bnoordhuis/node-heapdump) | [bnoordhuis](https://github.com/bnoordhuis) | Node内存调试
+
+### <a id="dev-tools"></a> 开发环境类工具
+
+项目 |开发者&组织 | 备注
+---- | ---- | ----
+[browserify](https://github.com/substack/node-browserify) | [substack](https://github.com/substack)| browserify是一个node.js模块，主要用于改写现有的CommonJS模块，使得浏览器端也可以使用这些模块；
+[TSD](https://github.com/DefinitelyTyped/tsd) | [DefinitelyTyped](https://github.com/DefinitelyTyped)| 在TypeScript中替换第三方库所使用的引用文件;
+[TypeScript](https://github.com/Microsoft/TypeScript) | [Microsoft](https://github.com/Microsoft)| JavaScript的超集，扩展了类型，类，接口等语法，兼容ES6；
+[Commander.js](https://github.com/tj/commander.js) | [tj](https://github.com/tj)| 可以帮助快速开发Nodejs命令行工具的一个包
+[marked](https://github.com/chjj/marked) | [chjj](https://github.com/chjj) | markdown解析器；
+[node-inspector](https://github.com/node-inspector/node-inspector) | [node-inspector](https://github.com/node-inspector) |nodejs的调试工具；
+[node-supervisor](https://github.com/petruisfan/node-supervisor) | [petruisfan](https://github.com/petruisfan) |nodejs用于无需重启的工具
+[candy](https://github.com/guo-yu/candy) | [guo-yu](https://github.com/guo-yu)| 基于多说社交评论的社会化论坛系统，采用 Node.js/Mongodb 构建；
+
 ### <a id="react"></a> react 生态圈
 
 项目 |开发者&组织 | 备注
@@ -115,6 +123,8 @@
 [react-router](https://github.com/rackt/react-router) | [rackt](https://github.com/rackt) | React路由系统
 [Flow](https://github.com/facebook/flow) | [Facebook](https://github.com/facebook)| 该公司出品的一个JavaScript静态编译器
 [React Native](https://github.com/facebook/react-native) | [Facebook](https://github.com/facebook) | 该公司出品的一个可以使用JavaScript来构建Native UI的库；
+[classnames](https://github.com/JedWatson/classnames) | [JedWatson](https://github.com/JedWatson/)| 一个简单的工具有条件性的添加class类名
+[react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) | [react-bootstrap](https://github.com/react-bootstrap/)| bootstrap react版
 
 ### <a id="angular"></a> angular生态圈
 

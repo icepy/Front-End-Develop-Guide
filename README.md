@@ -411,8 +411,6 @@ vim常用的插件：
 
 * [Web Developer技能树](https://github.com/phodal/skilltree)：类似《魔兽世界》中的天赋树；
 * [octotree](https://github.com/buunguyen/octotree)：浏览器扩展(Chrome,Firefox,Safari和Opera)显示GitHub树格式的代码；
-* [react-native](https://github.com/facebook/react-native)：出品的一个可以使用JavaScript来构建Native UI的库；
-* [ionic](https://github.com/driftyco/ionic)：Ionic是一个强大的HTML5 原生应用（native app） 开发框架，帮助你用HTMLL，css和javascript构建具有原生味道的移动应用（mobile apps）；
 * [passport-bnet](https://github.com/Blizzard/passport-bnet)：暴雪提供的Nodejs版SDK
 * [hexo](https://github.com/hexojs/hexo)：编写博客使用的工具
 * [traceur-compiler](https://github.com/google/traceur-compiler)：可以运行未来的JavaScript的JavaScript；
