@@ -160,7 +160,7 @@ web前端开发可能包括HTML,CSS,JavaScript,Web API,SVG,WebGL,MathML等，语
     * [Angular Modules](http://ngmodules.org/)  可以搜索Angular.JS可用的各种插件，模块等等。
     * [AngularJS性能优化心得](https://github.com/atian25/blog/issues/5)
 * Zepto.js
-    * [Zepto.js 中文文档](http://mweb.baidu.com/zeptoapi/)
+    * [Zepto.js](http://zeptojs.com/)
 * Sea.js
     * [Hello Sea.js](http://island205.github.io/HelloSea.js/)
 * impress.js
