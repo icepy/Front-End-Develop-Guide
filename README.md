@@ -218,7 +218,7 @@ cache是提高应用性能重要的一个环节，必需要有所了解。
 
 ### <a id="fed_point_recommend"></a> React&React Native生态-探索学习
 
-* [React&React Native生态-探索学习](https://github.com/icepy/Front-End-Develop-Guide/blob/master/React.md)
+* [React&React Native生态-探索学习](https://github.com/mulgore/Front-End-Develop-Guide/blob/master/react/React.md)
 
 ### <a id="fed_mobile_jishu"></a> 移动前端技术
 
