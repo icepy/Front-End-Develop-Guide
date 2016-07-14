@@ -161,6 +161,8 @@ web前端开发可能包括HTML,CSS,JavaScript,Web API,SVG,WebGL,MathML等，语
     * [AngularJS性能优化心得](https://github.com/atian25/blog/issues/5)
 * Zepto.js
     * [Zepto.js](http://zeptojs.com/)
+* JSLite
+    * [JSLite.io](http://JSLite.io/)
 * Sea.js
     * [Hello Sea.js](http://island205.github.io/HelloSea.js/)
 * impress.js
