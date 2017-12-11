@@ -1,4 +1,4 @@
-##Front-End-Develop-Guide 前端开发指南
+## Front-End-Develop-Guide 前端开发指南
 
 创建此项目灵感从[SwiftGuide](https://github.com/ipader/SwiftGuide)而来，这份指南汇集了前端开发所使用语言的主流学习资源，并以开发者的视角进行整理编排而成。
 
