@@ -10,9 +10,9 @@ GitHub：[mulgore/Front-End-Develop-Guide](https://github.com/mulgore/Front-End-
 
 **由于个人精力有限，不足之处还望大家多多包容与提供建议。**
 
-**btc捐赠：1KhG4j68NpiHB4LgFh2oieBu3gFTFkYQRC**
+**btc捐赠：1MQdydBQzr4UAFN7W1GK2M4a8uFDq5FkDK**
 
-**eth捐赠：0xE02dCD57fc3a97d2c2958e38C3B23664C568730F**
+**eth捐赠：0x8ebfb39f21e568dd1dcdaad5bb535fa187e14805**
 
 <span style="color:lightgray;font-size:12px"></span>
 
