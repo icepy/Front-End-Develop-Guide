@@ -12,7 +12,7 @@ GitHub：[mulgore/Front-End-Develop-Guide](https://github.com/mulgore/Front-End-
 
 **btc捐赠：1MQdydBQzr4UAFN7W1GK2M4a8uFDq5FkDK**
 
-**eth捐赠：0x8ebfb39f21e568dd1dcdaad5bb535fa187e14805**
+**eth捐赠：0x4A40Eb870DcF533D4dC097c3d87aaFE9f64490A1**
 
 <span style="color:lightgray;font-size:12px"></span>
 
