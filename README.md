@@ -1,22 +1,18 @@
 ## Front-End-Develop-Guide 前端开发指南
 
-创建此项目灵感从[SwiftGuide](https://github.com/ipader/SwiftGuide)而来，这份指南汇集了前端开发所使用语言的主流学习资源，并以开发者的视角进行整理编排而成。
+这份指南汇集了前端开发所使用语言的主流学习资源，并以开发者的视角进行整理编排而成。
 
-GitHub：[mulgore/Front-End-Develop-Guide](https://github.com/mulgore/Front-End-Develop-Guide) ｜欢迎开发者一起[维护](https://github.com/mulgore/Front-End-Develop-Guide/pulls)，或[反馈/投稿](https://github.com/mulgore/Front-End-Develop-Guide/issues/new)_
+GitHub：[icepy/Front-End-Develop-Guide](https://github.com/icepy/Front-End-Develop-Guide) ｜欢迎开发者一起[维护](https://github.com/icepy/Front-End-Develop-Guide/pulls)，或[反馈/投稿](https://github.com/icepy/Front-End-Develop-Guide/issues/new)
 
-> 想了解关于该指南及 前端开发 更多信息的同学，可以阅读短文《[致 Front-End Developers](https://github.com/mulgore/Front-End-Develop-Guide/blob/master/2015letter.md)》。 想查看优秀的开源项目，可以访问[《Front-End Develop 项目精选》](https://github.com/mulgore/Front-End-Develop-Guide/blob/master/Featured.md)。希望查看精选文章，可以访问[《Front-End Develop 文章精选》](https://github.com/mulgore/Front-End-Develop-Guide/blob/master/Featured-Articles.md)。也欢迎企业招聘人才提供工作岗位(請附上薪資)，可以提交到[工作岗位](https://github.com/mulgore/Front-End-Develop-Guide/issues/3)。
+> 想了解关于该指南及 前端开发 更多信息的同学，可以阅读短文《[致 Front-End Developers](https://github.com/icepy/Front-End-Develop-Guide/blob/master/2015letter.md)》。 想查看优秀的开源项目，可以访问[《Front-End Develop 项目精选》](https://github.com/icepy/Front-End-Develop-Guide/blob/master/Featured.md)。希望查看精选文章，可以访问[《Front-End Develop 文章精选》](https://github.com/icepy/Front-End-Develop-Guide/blob/master/Featured-Articles.md)。也欢迎企业招聘人才提供工作岗位(請附上薪資)，可以提交到[工作岗位](https://github.com/icepy/Front-End-Develop-Guide/issues/3)。
 
-由[@icepy](http://weibo.com/2455876310)负责整理，欢迎大家加入《前端Talk读者交流群》添加 **icepy_1988** 为好友后会邀请你加入。
+由[@icepy](http://weibo.com/2455876310)负责整理
 
 **由于个人精力有限，不足之处还望大家多多包容与提供建议。**
 
-**btc捐赠：1MQdydBQzr4UAFN7W1GK2M4a8uFDq5FkDK**
-
-**eth捐赠：0x4A40Eb870DcF533D4dC097c3d87aaFE9f64490A1**
-
 <span style="color:lightgray;font-size:12px"></span>
 
-##目录
+## 目录
 
 * [Front-End Develop 文档](#fed_doc)
 	* [Welcome to Front-End Develop](#fed_we)
@@ -257,7 +253,7 @@ cache是提高应用性能重要的一个环节，必需要有所了解。
 
 ### <a id="fed_kit"></a> 相关工具
 
-####1. 开发工具
+#### 1. 开发工具
 
 * [Sublime Text](http://www.sublimetext.com/)：前端开发好用到爆；
 * [Atom](https://atom.io/)：Github出品的一个类似Sublime Text编辑器，长的蛮像的，快捷键也非常类似；
@@ -335,14 +331,14 @@ vim常用的插件：
 * [Mobile HTML5](http://mobilehtml5.org/)：HTML5兼容性速查表
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
 
-####2. 源代码管理工具
+#### 2. 源代码管理工具
 
 * [Github](https://github.com)：声望日盛-全球最大的“同性”网站；
 * [Github For Mac](https://desktop.github.com/)：设计的非常美观的git管理客户端，它能取代命令行所获得的功能；
 * [Gitcafe](https://gitcafe.com/)：国内的Github，相比之下拥有速度优势；
 * [Git@OSC](https://git.oschina.net/)：也是类似的项目，在国内，可以免费建立1000+私有项目；
 
-####3. Mac工具
+#### 3. Mac工具
 
 关于Mac平台的使用，推荐大家阅读[入门精选](http://wsgzao.github.io/post/mac/)
 
@@ -356,15 +352,16 @@ vim常用的插件：
 * [Xcode](https://developer.apple.com/xcode/downloads/)：也许你用不上，安装Xcode主要是为了Xcode command line tools工具包，你也可以选择不安装Xcode，使用xcode-select --install跳过Xcode的安装；
 * [Postman](http://chromecj.com/web-development/2014-09/60.html) Postman是一款功能强大的网页调试与发送网页HTTP请求的Chrome插件。
 
-####4. VPN
+#### 4. VPN
 
-* [云梯VPN](https://www.cloudtizi.com/)
+* [Shadowsocks](https://github.com/shadowsocks/shadowsocks)
+* [Shadowsocks Mac](https://github.com/shadowsocks/ShadowsocksX-NG)
 
-####5. ES6编译
+#### 5. ES6编译
 
 * [babel](https://github.com/babel/babel)
 
-####6. gulp工具
+#### 6. gulp工具
 
 * [gulp-clean](https://www.npmjs.com/package/gulp-clean)：用于清理;
 * [gulp-notify](https://www.npmjs.com/package/gulp-notify)：用于打印消息文本;
@@ -390,7 +387,7 @@ vim常用的插件：
 * [gulp-sourcemaps](https://www.npmjs.com/package/gulp-sourcemaps)：生成map文件
 * [gulp-livereload](https://www.npmjs.com/package/gulp-livereload)：自动刷新
 
-####7.webpack
+#### 7.webpack
 
 * [raw-loader](https://www.npmjs.com/package/raw-loader)：将文件require进来；
 * [url-loader](https://www.npmjs.com/package/url-loader)：可以将图片require进来；
@@ -399,7 +396,7 @@ vim常用的插件：
 * [less-loader](https://www.npmjs.com/package/less-loader)：less loader；
 * [extract text plugin for webpack](https://www.npmjs.com/package/extract-text-webpack-plugin)：CSS文件提取；
 
-####8.服务
+#### 8.服务
 
 * [Travis-CI](https://travis-ci.org/)
 * [Coveralls](https://coveralls.io/)
@@ -413,7 +410,7 @@ vim常用的插件：
 
 想查看优秀的开源项目，可以访问[《Front-End Develop 项目精选》](https://github.com/mulgore/Front-End-Develop-Guide/blob/master/Featured.md)。
 
-####1. 有趣味的开源项目
+#### 1. 有趣味的开源项目
 
 * [Web Developer技能树](https://github.com/phodal/skilltree)：类似《魔兽世界》中的天赋树；
 * [octotree](https://github.com/buunguyen/octotree)：浏览器扩展(Chrome,Firefox,Safari和Opera)显示GitHub树格式的代码；
