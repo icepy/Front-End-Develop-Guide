@@ -2,7 +2,7 @@
 
 ![img](https://img.shields.io/github/license/icepy/Front-End-Develop-Guide.svg) ![img](https://img.shields.io/github/forks/icepy/Front-End-Develop-Guide.svg?label=Fork) ![img](https://img.shields.io/github/stars/icepy/Front-End-Develop-Guide.svg?style=social)
 
-这份指南汇集了前端开发所使用语言的主流学习资源，并以开发者的视角进行整理编排而成。想了解该指南及前端开发更多信息的同学，可以阅读短文《[致 Front-End Developers（2015）](https://github.com/icepy/Front-End-Develop-Guide/blob/master/2015letter.md)》，欢迎开发者一起[维护](https://github.com/icepy/Front-End-Develop-Guide/pulls)，或[反馈/投稿](https://github.com/icepy/Front-End-Develop-Guide/issues/new)。
+这份指南汇集了前端开发所使用语言的主流学习资源，并以开发者的视角进行整理编排而成，想了解该指南及前端开发更多信息的同学，可以阅读短文《[致 Front-End Developers（2015）](https://github.com/icepy/Front-End-Develop-Guide/blob/master/2015letter.md)》，欢迎开发者一起[维护](https://github.com/icepy/Front-End-Develop-Guide/pulls)，或[反馈/投稿](https://github.com/icepy/Front-End-Develop-Guide/issues/new)。
 
 由[@icepy](http://weibo.com/2455876310)负责整理，不足之处还望大家多多包容与提供建议。
 
@@ -152,8 +152,8 @@ web前端开发可能包括HTML,CSS,JavaScript,Web API,SVG,WebGL,MathML等，语
   - [构建自己的AngularJS](https://github.com/xufei/Make-Your-Own-AngularJS/blob/master/01.md)
   - [在Windows环境下用Yeoman构建AngularJS项目](http://www.waylau.com/build-angularjs-app-with-yeoman-in-windows/)
   - [大型应用下的 AngularJS 性能](http://web.jobbole.com/82060/)
-  - [Angular Modules](http://ngmodules.org/)  可以搜索Angular.JS可用的各种插件，模块等等。
-  -[AngularJS性能优化心得](https://github.com/atian25/blog/issues/5)
+  - [Angular Modules](http://ngmodules.org/)
+  - [AngularJS性能优化心得](https://github.com/atian25/blog/issues/5)
 
 ### <a id="javascript_log"></a> JavaScript 日志
 
