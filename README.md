@@ -84,7 +84,7 @@
 - [Vue](http://cn.vuejs.org/)
 - [前端代码异常日志与监控](http://www.cnblogs.com/hustskyking/p/fe-monitor.html)
 - [理解OAuth 2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
-- 下面两篇文章不会对 HTTP 的细节进行深究，而是从够高和更结构化的角度将 HTTP 协议的元素进行分类讲解，可以先阅读[HTTP 协议漫谈](http://blog.jobbole.com/88199/)和[图解Http协议](http://www.bysocket.com/?p=282)来对HTTP有一个大概的了解。
+- 下面两篇文章不会对 HTTP 的细节进行深究，而是从够高和更结构化的角度将 HTTP 协议的元素进行分类讲解，可以先阅读 [HTTP 协议漫谈](http://blog.jobbole.com/88199/) 和 [图解Http协议](http://www.bysocket.com/?p=282) 来对HTTP有一个大概的了解。
 - [HTTP协议](http://www.cnblogs.com/TankXiao/category/415412.html)
 - [HTTP/2协议的背景、内容、实现和未来](https://ye11ow.gitbooks.io/http2-explained/content/)
 - [HTTP 下午茶](http://happypeter.github.io/tealeaf-http/#chinese)
@@ -179,7 +179,7 @@
 
 #### <a id="fed_v8"></a>v8 引擎文献
 
-可以先通过阅读[V8引擎简介](http://impd.tencent.com/?p=35)来了解JavaScript现在最好的引擎是怎样的，然后访问[Chrome V8](https://developers.google.com/v8/)来获取最新的资料，API文档可以访问[v8-docs](http://izs.me/v8-docs/)。
+可以先通过阅读 [V8引擎简介](http://impd.tencent.com/?p=35)来了解JavaScript现在最好的引擎是怎样的，然后访问 [Chrome V8](https://developers.google.com/v8/)来获取最新的资料，API文档可以访问 [v8-docs](http://izs.me/v8-docs/)。
 
 - [V8 Javascript 引擎设计理念](http://blog.pluskid.org/?p=186)
 - [JavaScript引擎的性能优化](http://velocity.oreilly.com.cn/2015//2013/index.php?func=session&id=27)
